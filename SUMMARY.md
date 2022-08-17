@@ -36,6 +36,7 @@
 
 ## FAQ
 
+* [Community Projects](faq/community-projects.md)
 * [General FAQ](faq/general/README.md)
   * [How to set Presearch as the Default Search Engine](faq/general/how-to-set-presearch-as-the-default-search-engine.md)
   * [How to withdraw tokens from Presearch](faq/general/how-to-withdraw-tokens-from-presearch.md)
