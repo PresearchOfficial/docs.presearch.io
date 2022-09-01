@@ -80,4 +80,4 @@
 
 ## Support
 
-* [Support Links](support/support-links.md)
+* [Presearch Support](support/presearch-support.md)

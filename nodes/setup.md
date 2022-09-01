@@ -4,7 +4,7 @@ description: Get your node up and running in just a few minutes on your computer
 
 # Node Setup Instructions
 
-We're excited to have you be a part of the future of search. Tens of thousands of nodes are already being operated by beta testers, and these nodes provide the infrastructure for the Presearch Engine **Testnet**, which can be searched via: [https://testnet-engine.presearch.com](https://testnet-engine.presearch.com/).
+We're excited to have you be a part of the future of search. Tens of thousands of nodes are already being operated by Presearch node operators and these nodes provide the infrastructure for the main Presearch search experience, which can be searched via: [https://presearch.com ](https://presearch.com)
 
 ## General assumptions
 
