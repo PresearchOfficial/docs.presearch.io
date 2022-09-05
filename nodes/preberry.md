@@ -30,13 +30,13 @@ Please email collaborate@presearch.io your store when you have it live. We’ll 
 
 ## Distributor List
 
-**Market Perceptions (Europe)**\
-****[https://presearch-node.com](https://presearch-node.com)
-
 **Coinmonsters (USA, Canada, South Korea, Brazil, India, Portugal, Italy, Spain, the Netherlands)**\
 [https://coinmonster.store/preberry](https://coinmonster.store/preberry)
 
 **Presearch4u (Europe)**\
 [https://www.presearch4u.com/en/](https://www.presearch4u.com/en/)
+
+**Market Perceptions (Europe)**\
+****[https://presearch-node.com](https://presearch-node.com)
 
 {% embed url="https://media.giphy.com/media/2E6OYt2yphlWTGZeYK/giphy.gif" %}
