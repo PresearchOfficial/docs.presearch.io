@@ -31,7 +31,9 @@ In order to run a Presearch Node on the Raspberry Pi, you'll first need to insta
 
 On your main computer (not your Raspberry Pi):
 
-1. Download the latest [64 Bit Raspberry PI Operating System](https://downloads.raspberrypi.org/raspios\_arm64/images/raspios\_arm64-2021-05-28/2021-05-07-raspios-buster-arm64.zip) image
+1.  Download a [64 Bit Raspberry PI Operating System](https://downloads.raspberrypi.org/raspios\_arm64/images/raspios\_arm64-2021-05-28/2021-05-07-raspios-buster-arm64.zip) image
+
+    **Note**: This guide uses `2021–05–07-raspios-buster-arm64.zip`(the newest at the time this was written), but feel free to grab a newer version from: [https://downloads.raspberrypi.org/raspios\_arm64/images/](https://downloads.raspberrypi.org/raspios\_arm64/images/)
 2. Insert your SD card into your MicroSD card reader
 3. Download the Raspberry Pi Image Tool from [here](https://www.raspberrypi.com/software/) and run it
 
