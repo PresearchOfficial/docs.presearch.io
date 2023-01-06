@@ -6,6 +6,7 @@
 
 * [What is a Node?](nodes/overview.md)
 * [Node Setup Instructions](nodes/setup.md)
+* [Node Configuration Parameters](nodes/node-configuration-parameters.md)
 * [How to Deposit Tokens for Staking](nodes/deposit.md)
 * [Setup Nodes Through VPS](nodes/vps-setup/README.md)
   * [Running a node on FluxOS](nodes/vps-setup/running-a-node-on-fluxos/README.md)
