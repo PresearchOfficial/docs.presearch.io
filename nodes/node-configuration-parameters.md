@@ -46,3 +46,17 @@ docker run -dt --name presearch-node -e DESCRIPTION="AWS:[$(ec2metadata --instan
 **Outcome:**
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+In addition to the Presearch node configuration parameters above, since Presearch nodes run as Docker containers, this means that you have full flexibility to also use and Docker configuration parameters to optimize the running of your Presearch node, as well. The default installation commands contain recommended parameters for seamless out-of-the-box use. Some of the most commonly-used Docker parameters by node operators include:\
+`--detach`, `-d` (Part of installation/run command)\
+`--name`, `-n` (Part of installation/run command)\
+`--volume`, `-v` (Part of installation/run command)\
+`--interactive`, `-i` (Part of installation command)\
+`--tty`, `-t` (Part of installation command)\
+`--restart-unless-stopped` (Part of installation command)\
+\
+`--network`: can be used to optimize network speed / latency depending on your internet setup\
+`--dns`: can override your computer's default DNS configuration to avoid bad DNS providers. If you're getting errors about being unable to connect to reach the network then a bad DNS provider is the most common reason.\
+`--ip`: can be used to select from different available IP addresses if your system has multiple\
+\
+Please consult the [Docker documentation](https://docs.docker.com/engine/reference/run/) if you would like to better understand these and other available container configuration parameters.\
