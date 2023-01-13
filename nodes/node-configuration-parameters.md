@@ -2,12 +2,12 @@
 
 Presearch nodes run as docker containers, with configuration options being passed in as environmental variables using the `-e PARAM1=VALUE1 -e PARAM2=VALUE2` format.
 
-When starting your node for the first time, the only required parameter is the node's REGISTRATION\_CODE. We recommend running the full node setup command in the Node Setup Instructions for your particular Operating System, as this will also install the auto-updater and will make maintenance much easier. On this page, we will only highlight the specific part of the command that contains the node configuration parameters:
+When starting your node for the first time, the only required parameter is the node's REGISTRATION\_CODE. We recommend running the full node setup command in the [Node Setup Instructions](setup.md) for your particular operating system, as this will also install the auto-updater and will make maintenance much easier. On this page, we will only highlight the specific part of the command that contains the node configuration parameters:
 
 {% code overflow="wrap" %}
 ```bash
 ...
-docker run -dt --name presearch-node --restart=unless-stopped sh-v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE presearch/node
+docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE presearch/node
 ...
 ```
 {% endcode %}
