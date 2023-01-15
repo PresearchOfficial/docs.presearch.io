@@ -15,7 +15,7 @@ We're excited to have you be a part of the future of search. Tens of thousands o
 
 ## Installation options
 
-If you have any questions, you can join our helpful [nodes telegram group](https://t.me/PresearchNodes) or [discord #node](https://discord.gg/MspHc2yj).
+If you have any questions, you can join our helpful [nodes telegram group](https://t.me/PresearchNodes) or [discord #node](https://discord.presearch.com).
 
 Before you continue the node setup process, it is good to decide where your node would be running. Typical setups are following:
 
