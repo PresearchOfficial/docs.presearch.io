@@ -107,7 +107,7 @@ true|false - whether to also include nodes that haven't been active during the s
 (Default: false)
 {% endswagger-parameter %}
 
-{% swagger-response status="200" description="Nodes successfully retrieved
+{% swagger-response status="200: OK" description="Nodes successfully retrieved
 
 Notes:
 * All dates are returned in Zulu format (UTC)
@@ -168,8 +168,16 @@ Notes:
 ```
 {% endswagger-response %}
 
-{% swagger-response status="401" description="Request contains a missing or incorrect API key" %}
+{% swagger-response status="401: Unauthorized" description="Request contains a missing or incorrect API key" %}
 ```
+```
+{% endswagger-response %}
+
+{% swagger-response status="429: Too Many Requests" description="You have exceeded the rate limits for the specified node(s) or API key" %}
+```javascript
+{
+    // Response
+}
 ```
 {% endswagger-response %}
 {% endswagger %}

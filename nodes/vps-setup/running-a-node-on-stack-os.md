@@ -39,7 +39,7 @@ As a note, we can assign the resources as follows:  &#x20;
 ## Go to the AppStore
 
 ![
-](<../../.gitbook/assets/image (4) (1).png>)
+](<../../.gitbook/assets/image (4).png>)
 
 ## Launch your PreSearch Node
 
@@ -47,7 +47,7 @@ As a note, we can assign the resources as follows:  &#x20;
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-![](<../../.gitbook/assets/image (2) (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-11 at 4.16.57 AM (1).png>)
 
@@ -56,11 +56,11 @@ As a note, we can assign the resources as follows:  &#x20;
 \
 Check [https://nodes.presearch.com/dashboard](https://nodes.presearch.com/dashboard) and verify your node appears on the list
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Look for green connection icon
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ## Troubleshooting
 

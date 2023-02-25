@@ -45,7 +45,7 @@ docker run -dt --name presearch-node -e DESCRIPTION="AWS:[$(ec2metadata --instan
 
 **Outcome:**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 In addition to the Presearch node configuration parameters above, since Presearch nodes run as Docker containers, this means that you have full flexibility to also use and Docker configuration parameters to optimize the running of your Presearch node, as well. The default installation commands contain recommended parameters for seamless out-of-the-box use. Some of the most commonly-used Docker parameters by node operators include:\
 `--detach`, `-d` (Part of installation/run command). \

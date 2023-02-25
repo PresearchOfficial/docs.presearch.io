@@ -52,6 +52,7 @@
   * [How can I help promoting Presearch?](faq/general/how-can-i-help-promoting-presearch.md)
   * [Who do I contact for marketing / promotional offers?](faq/general/who-do-i-contact-for-marketing-promotional-offers.md)
   * [How can I contact the support team?](faq/general/how-can-i-contact-the-support-team.md)
+* [Purchasing the PRE token with a Credit Card](faq/purchasing-the-pre-token-with-a-credit-card.md)
 * [Marketplace FAQ](faq/marketplace/README.md)
   * [Which blockchain do PRE Tokens operate on?](faq/marketplace/which-blockchain-do-pre-tokens-operate-on.md)
   * [How many tokens can I buy?](faq/marketplace/how-many-tokens-can-i-buy.md)
