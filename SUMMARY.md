@@ -22,7 +22,7 @@
 * [Node Rewards](nodes/rewards.md)
 * [API Access](nodes/api.md)
 * [Preberry](nodes/preberry.md)
-* [Backing up and Migrating Nodes](nodes/backing-up-and-migrating-nodes/README.md)
+* [Backing Up and Migrating Nodes](nodes/backing-up-and-migrating-nodes/README.md)
   * [Alternative to Backing up nodes](nodes/backing-up-and-migrating-nodes/alternative-to-backing-up-nodes.md)
 
 ## Keyword Staking
