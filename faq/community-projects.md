@@ -11,6 +11,3 @@ Presearch Lending
 
 {% embed url="https://pre-lending.com" %}
 
-Presearch.fan Email Address
-
-{% embed url="https://presearch.fan/" %}

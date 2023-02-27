@@ -4,11 +4,11 @@ description: >-
   grandfathered status
 ---
 
-# Backing Up and Migrating Nodes
+# Backing up and Migrating Nodes
 
 Sometimes, you may want to migrate your node to a new computer or VPS, while maintaining the current node's identity, grandfathered status, and node stats.
 
-In order to move your Presearch node to a new server, you need to back up the security keys of the node _while it’s still running_, copy them to the new server, stop the old node, run the Presearch Node Restore command on the new server, then start the node up on the new server.
+In order to move your Presearch node to a new server, you need to backup the security keys of the node _while it’s still running_, copy them to the new server, stop the old node, run the Presearch Node Restore command on the new server, then start the node up on the new server.
 
 For the steps below, `old-server` is the old server your node was running on, and `new-server` is the new server you are moving the node onto. Text surrounded by `{}` should be replaced with the proper actual value.
 
@@ -65,4 +65,4 @@ We recommend making a backup of all of your nodes' security keys.
 
 
 
-Adapted from [https://nabeards.com/posts/moving-a-presearch-node-to-another-server/](https://nabeards.com/posts/moving-a-presearch-node-to-another-server/), which also provides direction on managing and backing up multiple nodes at once.
+Adapted from [https://nabeards.com/posts/moving-a-presearch-node-to-another-server/](https://nabeards.com/posts/moving-a-presearch-node-to-another-server/) , which also provides direction on managing and backing up multiple nodes at once.
