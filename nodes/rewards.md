@@ -44,7 +44,7 @@ For a node operator to receive Node Rewards, they will be required to stake a mi
 * You will not be able to reduce your stake again if your new stake is still below the new minimum
 * If you unstake your tokens (set a stake of '0') then your new minimum stake will be 4000.
 
-As an example, someone staking 1000 may continue to do so indefinitely. The may increase their stake to 1001, 1002, ... 4000 as many times as they want. Once they set their stake to 1001, however, they will not be able to reduce it back to 1000. Once they stake 4001, however, they will be able to reduce down to 4000 (the new minimum stake), but now below.
+As an example, someone staking 1000 may continue to do so indefinitely. The may increase their stake to 1001, 1002, ... 4000 as many times as they want. Once they set their stake to 1001, however, they will not be able to reduce it back to 1000. Once they stake 4001, however, they will be able to reduce down to 4000 (the new minimum stake), but not below.
 
 This has the **effect of grandfathering** in all staking node operators with their stakes from before the change, while enabling them to increase, but not decrease, their stakes at any time.
 
