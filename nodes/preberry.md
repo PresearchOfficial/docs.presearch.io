@@ -33,7 +33,7 @@ Please email collaborate@presearch.io your store when you have it live. We’ll 
 **Coinmonsters (USA, Canada, South Korea, Brazil, India, Portugal, Italy, Spain, the Netherlands)**\
 [https://coinmonster.store/preberry](https://coinmonster.store/preberry)
 
-**Project Pi (USA, Canada)**
+**Project Pi (Global)**
 
 [https://www.projectpi.xyz/product.html](https://www.projectpi.xyz/product.html)
 
