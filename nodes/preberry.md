@@ -33,10 +33,11 @@ Please email collaborate@presearch.io your store when you have it live. We’ll 
 **Coinmonsters (USA, Canada, South Korea, Brazil, India, Portugal, Italy, Spain, the Netherlands)**\
 [https://coinmonster.store/preberry](https://coinmonster.store/preberry)
 
-**Presearch4u (Europe)**\
-[https://www.presearch4u.com/en/](https://www.presearch4u.com/en/)
+**Project Pi (USA, Canada)**
+
+[https://www.projectpi.xyz/product.html](https://www.projectpi.xyz/product.html)
 
 **Market Perceptions (Europe)**\
-****[https://presearch-node.com](https://presearch-node.com)
+[https://presearch-node.com](https://presearch-node.com)
 
 {% embed url="https://media.giphy.com/media/2E6OYt2yphlWTGZeYK/giphy.gif" %}
