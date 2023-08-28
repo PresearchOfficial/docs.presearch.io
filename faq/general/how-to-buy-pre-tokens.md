@@ -2,7 +2,7 @@
 
 There are two main ways to buy PRE:
 
-1. Direct from Presearch via [**https://marketplace.presearch.com**](https://marketplace.presearch.com/)****
+1. Direct from Presearch via [**https://marketplace.presearch.com**](https://marketplace.presearch.com/)
 2. From third-parties via external markets as listed here: [**https://coinmarketcap.com/currencies/presearch/markets/**](https://coinmarketcap.com/currencies/presearch/markets/)
 
 In this post, we’ll talk about the options, benefits and drawbacks of each method.
@@ -12,7 +12,7 @@ In this post, we’ll talk about the options, benefits and drawbacks of each met
 If you are looking to purchase PRE to do [**Keyword Staking**](https://medium.com/@presearch/what-is-keyword-staking-b063324a2e85?source=---------3------------------) right away, or if you aren’t familiar with cryptocurrency, then you’ll probably want to buy [**direct from Presearch**](https://marketplace.presearch.com/) for the following reasons:
 
 1. There are fewer steps involved
-2. There are additional payment methods available, including wire transfer and credit card via [**Skrill**](https://www.skrill.com/) **** (send to **skrill@presearch.io**)
+2. There are additional payment methods available, including wire transfer and credit card via [**Skrill**](https://www.skrill.com/) (send to **skrill@presearch.io**)
 3. You are buying direct from the project, so the source is more trusted
 
 Pricing of PRE tokens on the Presearch Marketplace is based on the reported CoinMarketCap price for PRE, plus an additional 10–25% to account for the ‘slippage’ that occurs with market pricing.
@@ -21,7 +21,7 @@ This mark up is charged to account for the lack of PRE currently available for s
 
 **How to Purchase**
 
-To buy PRE direct from Presearch, visit [**https://marketplace.presearch.com**](https://marketplace.presearch.com/) **** and click the green ‘Buy Tokens’ button.![Image for post](https://miro.medium.com/max/60/1\*STU0vVNhYAKVbJ3x5Za78g.png?q=20)![Image for post](https://miro.medium.com/max/5760/1\*STU0vVNhYAKVbJ3x5Za78g.png)
+To buy PRE direct from Presearch, visit [**https://marketplace.presearch.com**](https://marketplace.presearch.com/) and click the green ‘Buy Tokens’ button.![Image for post](https://miro.medium.com/max/60/1\*STU0vVNhYAKVbJ3x5Za78g.png?q=20)![Image for post](https://miro.medium.com/max/5760/1\*STU0vVNhYAKVbJ3x5Za78g.png)
 
 On the next screen, enter the number of tokens you wish to purchase, or the amount you’d like to spend by typing the quantity where the corresponding numbers are, depending on which payment method you’d like to use (Bitcoin, Ethereum or USD).![Image for post](https://miro.medium.com/max/60/1\*DJ3zK19KlUcxAsT3HzJtQQ.png?q=20)![Image for post](https://miro.medium.com/max/5752/1\*DJ3zK19KlUcxAsT3HzJtQQ.png)
 
@@ -42,7 +42,7 @@ You will then be provided with a payment address (if paying with Bitcoin or Ethe
 
 ![Image for post](https://miro.medium.com/max/3048/1\*EfnNwVm5wnw7lz2609UunQ.png)
 
-If you need access to your order info, or to check on the order status, you can view your purchase history at any time via this link:[ **https://marketplace.presearch.com/history**](https://marketplace.presearch.com/history)****
+If you need access to your order info, or to check on the order status, you can view your purchase history at any time via this link:[ **https://marketplace.presearch.com/history**](https://marketplace.presearch.com/history)
 
 ![Image for post](https://miro.medium.com/max/4676/1\*oZHVcQsJyES04EANmpYeyw.png)
 
@@ -66,7 +66,7 @@ As community members add new exchanges, they will automatically be added to the 
 
 If you buy from an external exchange or peer-to-peer, or if you are holding your tokens on an external blockchain wallet and intend to use your PRE for keyword staking, you’ll need to deposit your PRE tokens back into the Presearch portal.
 
-The link to deposit your PRE can be found by clicking this link when you are logged into Presearch: [**https://keywords.presearch.com/transfer-tokens/blockchain**](https://keywords.presearch.com/transfer-tokens/blockchain)****
+The link to deposit your PRE can be found by clicking this link when you are logged into Presearch: [**https://keywords.presearch.com/transfer-tokens/blockchain**](https://keywords.presearch.com/transfer-tokens/blockchain)
 
 Then click the ‘Request Deposit Address’ button to get your blockchain address.![Image for post](https://miro.medium.com/max/2784/1\*s5UerBiuXGRIP28LjSGHGQ.png)
 

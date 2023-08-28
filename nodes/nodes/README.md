@@ -4,6 +4,6 @@ description: General questions around Presearch Nodes!
 
 # Nodes FAQ
 
-{% content-ref url="nodes.md" %}
-[nodes.md](nodes.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}

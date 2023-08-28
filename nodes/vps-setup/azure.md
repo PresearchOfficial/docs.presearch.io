@@ -36,8 +36,8 @@ To create the Ubuntu Server platform for Docker and your Presearch node, follow 
 * From the menu on your left, select “Virtual machines”. If this option is not available, simply type “Virtual machines” in the search box on top.
 * From the menu, choose “Add” and then “Virtual machine”.
 
-![](https://lh6.googleusercontent.com/jnr0v1cUaGZh0MmVUTzdgE10xxU0cITAV9SYNfKVhJPWoT7yh2Rr-FH\_EG-SeKZTYGdPAZdYbVFpQFhC\_Jdk7esofct5lNgkkBuszSqGzuLsOqriOynzcfJxPg5UWvK9KbLE46GQ)****\
-****
+![](https://lh6.googleusercontent.com/jnr0v1cUaGZh0MmVUTzdgE10xxU0cITAV9SYNfKVhJPWoT7yh2Rr-FH\_EG-SeKZTYGdPAZdYbVFpQFhC\_Jdk7esofct5lNgkkBuszSqGzuLsOqriOynzcfJxPg5UWvK9KbLE46GQ)\
+
 
 **The options in this first screen:**
 
@@ -74,14 +74,14 @@ To create the Ubuntu Server platform for Docker and your Presearch node, follow 
 ![](https://lh3.googleusercontent.com/aOs1c-MErR6aHlkGbUoPELA5quecwG61S0wW1fknD60kuVB30ptQwL1yCCcmzRDB3m0aFeN5ZKPRMxjX\_UCsWjKeSEkRrv6mp9u7vnqEMD9sn3ZQaxtY22-sLlIa0NCwhP\_5uDVp)
 
 **Selecting a cheaper disk option**\
-****
+
 
 * Click the “Management” tab, and ensure the checkbox “Enable auto shutdown” is unchecked, as per image below.
 
 ![](https://lh5.googleusercontent.com/YS\_i4En9ahCQCOY0XR7S3A1bsav5nNPKSXaVTRJakfe1D8xyi3n-lKnNNI8lRWdaYl8wJfUdUTxsCQpJooia-EgGr30jX51od2Vp88iG-\_lkVaUqJd3sip98pEIcKlC3S8ecs57q)
 
 * That’s it! Now, click “Review + create”. Your selected options are checked and if all is okay, the “Create” button will become active.
-* Click “Create”, and after a few seconds a pop-up will appear, offering you to download the generated keys. _****_ Click “Download private key and create resource” and a private key will be downloaded.
+* Click “Create”, and after a few seconds a pop-up will appear, offering you to download the generated keys. Click “Download private key and create resource” and a private key will be downloaded.
 
 {% hint style="info" %}
 **Note where you save this key and keep it secure! Anyone in possession of this** private key can access your server.
@@ -89,10 +89,10 @@ To create the Ubuntu Server platform for Docker and your Presearch node, follow 
 
 **Download the private key**
 
-![](https://lh5.googleusercontent.com/tWdzED\_V\_mOjdBUG6R1ziwEp8rLOxTx0DIpBozvq3rEGRXLAmplnbPfLivWmgrlStTJORf7QO5Q94wXDucmZKU-eN0keiLd3tAC2twtAdgaATwvTWMdOIs1C94ZyIXGhsj\_gjQor)****
+![](https://lh5.googleusercontent.com/tWdzED\_V\_mOjdBUG6R1ziwEp8rLOxTx0DIpBozvq3rEGRXLAmplnbPfLivWmgrlStTJORf7QO5Q94wXDucmZKU-eN0keiLd3tAC2twtAdgaATwvTWMdOIs1C94ZyIXGhsj\_gjQor)
 
-****\
-****The system will now be deployed and a progress screen will appear. When all resources have been deployed you will be presented with a screen as below.&#x20;
+\
+The system will now be deployed and a progress screen will appear. When all resources have been deployed you will be presented with a screen as below.&#x20;
 
 ![](https://lh5.googleusercontent.com/MnxzDZDXAQz-ngE0wObba7UBM5a1QispPcRSla2vRRBLyyqLhvGNiwLODAV1IG03j-xYa3oiQJuqMVYrWH6OIpZNG42jrDrA9IxVfjvl8g2ihR3K6ed6eVjefm5qeaI-UiCeiC70)
 
@@ -147,7 +147,7 @@ docker run hello-world
 #### **Your node registration code**
 
 First, goto your [Node's dashboard page](https://nodes.presearch.com/dashboard) and note down personal Node registration code. You will need this later to start the presearch-node container.\
-****
+
 
 ![](https://lh5.googleusercontent.com/nNj2qzd6LYWJ1UzycUvtk6g8iFuFmFikQB1sgYYiBsZO1UfXcDNRAMA8Ht3gJxm74vVeoKiH3ddoCLZ7l8gSFsKvCtFvIKKdOQN63oqsYTVzikEKK9iUeXg\_H65uhBc7YCUkRv0b)
 
@@ -156,7 +156,7 @@ First, goto your [Node's dashboard page](https://nodes.presearch.com/dashboard) 
 ## **Presearch Auto-updater**
 
 Now, we install the presearch-node and an automatic updater. To ensure the presearch node always runs the latest image we are using the the Presearch Auto-updater image to check the presearch-node image every 900 seconds (15 minutes) for an updated version and if found, to automatically update it.\
-****
+
 
 ```
 docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run/docker.sock:/var/run/docker.sock presearch/auto-updater --cleanup --interval 900 presearch-auto-updater presearch-node
@@ -184,7 +184,7 @@ Since version 0.9.21, there are additional parameters you can enter at startup t
 * STAKE : to stake an amount of PRE from node startup.
 
 This would make the full command something like:\
-****
+
 
 ```
 docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -e DESCRIPTION="My Favorite Node" -e URL="https://my-hosting-provider.com/my-node-admin-page" -e STAKE=10000 presearch/node

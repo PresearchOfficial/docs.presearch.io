@@ -64,7 +64,11 @@ Please refer to the subchapter dedicated for each type of installation:
 
 2\. Get your node registration code at [https://nodes.presearch.com/dashboard](https://nodes.presearch.com/dashboard).
 
-![](<../.gitbook/assets/image (10).png>)
+<div align="center">
+
+<img src="../.gitbook/assets/image (10).png" alt="">
+
+</div>
 
 3\. Run the node start commands below in your terminal to install your node \
 \[ See tutorials for how to open terminal on [Mac](https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/) & [Windows](https://www.wikihow.com/Open-Terminal-in-Windows) ]
@@ -83,7 +87,7 @@ Copy/Paste the operating-system-specific command below into your terminal:
 
 **IMPORTANT:** You must insert your registration code from step #2 above into the script by replacing the text`$YOUR_REGISTRATION_CODE_HERE`with your actual registration code. So, for example, if your registration code is `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` then the final command would contain the text `REGISTRATION_CODE=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` .
 
-The above command installs two services on your computer, the _ **presearch-node**_** ** and the ** **_**presearch-auto-updater**_**,** and configure both of them to be always running in the background.&#x20;
+The above command installs two services on your computer, the _**presearch-node**_ and the _**presearch-auto-updater**_**,** and configure both of them to be always running in the background.&#x20;
 
 The _presearch-node_ actually runs the decentralized search software, whereas the _presearch-auto-updater_ is responsible for automatically upgrading the _presearch-node_ to the newest versions when released to ensure the node stays up to date and can continue to connect to the Presearch network.
 
@@ -123,13 +127,13 @@ To stop your node and the _presearch-auto-updater_ manually, run the following c
 To restart a manually-stopped node, run the following command:
 
 **Restart your stopped node:**\
-****`docker start presearch-auto-updater`\
+`docker start presearch-auto-updater`\
 `docker start presearch-node`
 
 If you would like to see if your node or the presearch-auto-updater are running, run the following command:\
 \
 **Check if the node services are running:**\
-****`docker ps`&#x20;
+`docker ps`&#x20;
 
 Finally, if you run into any problems with your node, you can always _run the installation script again_ from the [setup instructions](setup.md) section if needed. Your node identity will be preserved, but should will get your node upgraded, reinstalled, and over most configuration issues you may encounter.
 

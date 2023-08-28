@@ -13,7 +13,7 @@ To see the Official Presearch Node Setup Instructions, head to:
 ![](<../../.gitbook/assets/vVdomoQ5 (1).jpg>)
 
 1. Create an account on [presearch.com/signup](https://presearch.com/signup)
-2. ~~Fill out the typeform~~ [~~https://presearchcommunity.typeform.com/to/UkDumktm?typeform-source=presearch.medium.com~~](https://presearchcommunity.typeform.com/to/UkDumktm?typeform-source=presearch.medium.com)~~~~
+2. ~~Fill out the typeform~~ [~~https://presearchcommunity.typeform.com/to/UkDumktm?typeform-source=presearch.medium.com~~](https://presearchcommunity.typeform.com/to/UkDumktm?typeform-source=presearch.medium.com)
 3. join the telegram https://t.me/presearch
 4. wait up to 24hrs to receive approval to run a node. Once you have received confirmation, go to vultr.com and set up your VPS. Deploy a new server and choose the following options
    1. Cloud compute

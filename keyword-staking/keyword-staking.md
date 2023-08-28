@@ -32,7 +32,7 @@ You can unlock or unstake them at any time to withdraw them to the blockchain or
 
 This means that if you [**buy PRE tokens**](https://marketplace.presearch.org/), stake them against keywords, you can receive traffic while you have them locked up. You can sell your PRE later once you stop using them for staking, making the traffic you received absolutely free.
 
-****
+
 
 ## **Ranking of keywords** <a href="#b7a3" id="b7a3"></a>
 

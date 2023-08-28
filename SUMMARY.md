@@ -24,6 +24,12 @@
 * [Preberry](nodes/preberry.md)
 * [Backing Up and Migrating Nodes](nodes/backing-up-and-migrating-nodes/README.md)
   * [Alternative to Backing up nodes](nodes/backing-up-and-migrating-nodes/alternative-to-backing-up-nodes.md)
+* [Nodes FAQ](nodes/nodes/README.md)
+  * [Can I already run a Presearch node?](nodes/nodes/can-i-already-run-a-presearch-node.md)
+  * [Is Docker required to run a Presarch node?](nodes/nodes/is-docker-required-to-run-a-presarch-node.md)
+  * [Is there a node network explorer or some kind of overview page ?](nodes/nodes/is-there-a-node-network-explorer-or-some-kind-of-overview-page.md)
+  * [Will there be IPv6 support for Presearch nodes ?](nodes/nodes/will-there-be-ipv6-support-for-presearch-nodes.md)
+  * [Can I run Presearch node besides Flux node ?](nodes/nodes/can-i-run-presearch-node-besides-flux-node.md)
 
 ## Keyword Staking
 
@@ -62,7 +68,6 @@
   * [How can I withdraw my tokens to the blockchain?](faq/marketplace/how-can-i-withdraw-my-tokens-to-the-blockchain.md)
 * [Keywords FAQ](faq/keywords/README.md)
   * [How can I see which keywords have traffic?](faq/keywords/how-can-i-see-which-keywords-have-traffic.md)
-* [Nodes FAQ](faq/nodes.md)
 * [Community Tutorials](faq/community-tutorials/README.md)
   * [Intense Investor](faq/community-tutorials/intense-investor.md)
   * [Martin Valk](faq/community-tutorials/martin-valk.md)

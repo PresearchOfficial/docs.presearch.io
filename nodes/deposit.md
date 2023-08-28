@@ -29,7 +29,7 @@ Once you purchase from there, send your funds to your account on here:
 
 {% embed url="https://keywords.presearch.org/transfer-tokens/blockchain" %}
 
-## **Stake Your** [**Keywords**](https://keywords.presearch.org/dashboard) **or** [**Nodes**](https://nodes.presearch.org/dashboard)****
+## **Stake Your** [**Keywords**](https://keywords.presearch.org/dashboard) **or** [**Nodes**](https://nodes.presearch.org/dashboard)
 
 {% embed url="https://nodes.presearch.org/dashboard" %}
 
