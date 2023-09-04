@@ -77,7 +77,7 @@ On your main computer (not your Raspberry Pi):
 
 #### 10. When the Raspberry Pi boots for the first time, follow the instructions in the Setup Wizard to configure your system settings:&#x20;
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 You'll configure to following settings based upon your own needs:\
 • Country, Language, Timezone, Keyboard\
@@ -91,13 +91,13 @@ You'll configure to following settings based upon your own needs:\
 Do **NOT** skip the software updates, as it could expose your system to security issues or prevent your node from installing correctly.\
 
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 
 
 #### 12. On the final "Setup Complete" Screen, click "Restart".
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 Once your successfully system restarts, you'll be ready to install Docker and start your node!
 
@@ -107,7 +107,7 @@ To install Docker on your Raspberry Pi, perform the following steps
 
 #### 1. Click the Terminal icon in the system menu bar to open a terminal
 
-![](<../.gitbook/assets/image (12).png>)
+![](../.gitbook/assets/image.png)
 
 #### 2. Run the following command to download and install Docker
 

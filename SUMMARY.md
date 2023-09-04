@@ -18,6 +18,8 @@
   * [Running a node on Microsoft Azure](nodes/vps-setup/azure.md)
   * [Running a node on Linux VPS](nodes/vps-setup/linux-vps.md)
   * [Running a node on Stack OS](nodes/vps-setup/running-a-node-on-stack-os.md)
+  * [Backup method for Linux](nodes/vps-setup/backup-method-for-linux.md)
+  * [Backup method for Docker Desktop for Windows](nodes/vps-setup/backup-method-for-docker-desktop-for-windows.md)
 * [Setup Nodes on Raspberry Pi](nodes/raspberry-pi.md)
 * [Node Rewards](nodes/rewards.md)
 * [API Access](nodes/api.md)
