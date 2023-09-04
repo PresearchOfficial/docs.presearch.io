@@ -20,7 +20,7 @@ Open following path in Windows Explorer (WinKey+E shortcut) or Run (WinKey+R sho
 
 > \\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\presearch-node-storage\\\_data\\.keys
 
-![Example of the output for Windows](<../../.gitbook/assets/image (13).png>)
+![Example of the output for Windows](<../../.gitbook/assets/image (17).png>)
 
 ### 2. Copy node's identity files
 
