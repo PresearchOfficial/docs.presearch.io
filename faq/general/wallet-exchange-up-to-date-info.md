@@ -10,7 +10,6 @@ _Please, only engage with transactions on our new contract address:_ **0xEC213F8
 
 * **KuCoin**: Updated and supports new PRE token.
 * **HitBTC**: Updated and supports new PRE token.
-* **Probit**: Updated and supports new PRE token.
 * **Uniswap**: Supports new PRE token.
 
 ## Information Service Status <a href="#601a" id="601a"></a>

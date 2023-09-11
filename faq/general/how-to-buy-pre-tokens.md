@@ -58,10 +58,6 @@ At this time, we recommend purchasers / sellers use [KuCoin.com](https://trade.k
 
 ![Image for post](https://miro.medium.com/max/3000/1\*T9f4rKcHvtB77mdLtjokzA.png)[https://trade.kucoin.com/PRE-BTC](https://trade.kucoin.com/PRE-BTC)
 
-Another alternative marketplace would be [Probit.com](https://www.probit.com/app/exchange/PRE-BTC).
-
-![Image for post](https://miro.medium.com/max/1730/0\*5LhyArpVbV9Vaoqk)[https://probit.com](https://probit.com/)
-
 As community members add new exchanges, they will automatically be added to the [**CoinMarketCap**](https://coinmarketcap.com/currencies/presearch/markets/) list above.
 
 If you buy from an external exchange or peer-to-peer, or if you are holding your tokens on an external blockchain wallet and intend to use your PRE for keyword staking, you’ll need to deposit your PRE tokens back into the Presearch portal.

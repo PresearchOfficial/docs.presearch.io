@@ -14,10 +14,7 @@ If you would like to purchase them on an external exchange, here are a few excha
 2. [Kucoin](https://www.kucoin.com/)
    1. [PRE/BTC](https://trade.kucoin.com/PRE-BTC)
    2. [PRE/USDT](https://trade.kucoin.com/PRE-USDT)
-3. [Probit](https://www.probit.com/en-us/)
-   1. [PRE/USDT](https://www.probit.com/app/exchange/PRE-USDT)
-   2. [PRE/KRW](https://www.probit.com/app/exchange/PRE-KRW)
-4. [HitBTC](https://hitbtc.com/)
+3. [HitBTC](https://hitbtc.com/)
    1. [PRE/BTC](https://hitbtc.com/PRE-to-BTC)
    2. [PRE/ETH](https://hitbtc.com/PRE-to-ETH)
 
