@@ -32,4 +32,6 @@ Get you started with keyword staking
 
 Get you started with Search Staking
 
-{% embed url="https://app.gitbook.com/o/-MWXXePdhVnzyfNZuOdX/s/-MS4taefedlYJ7UrPHAo/~/changes/189/search-staking-and-usage-rewards/search-staking-faq" %}
+{% content-ref url="search-staking-and-usage-rewards/search-staking-faq/" %}
+[search-staking-faq](search-staking-and-usage-rewards/search-staking-faq/)
+{% endcontent-ref %}
