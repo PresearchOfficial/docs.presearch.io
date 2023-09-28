@@ -4,9 +4,9 @@ description: >-
   ecosystem.
 ---
 
-# Welcome to Presearch 👋
+# 🏠 Welcome to Presearch 👋
 
-If you can't find what you need here, visit our friendly and creative community [on Discord](https://discord.gg/presearch) or [on Telegram](https://t.me/PresearchNodes), where you'll find lots of people happy to help you.
+If you can't find what you need here, visit our friendly and creative community [on Discord](https://discord.gg/G4xr6nrjY6) or [on Telegram](https://t.me/presearch), where you'll find lots of people happy to help you.
 
 We're excited that you've joined the Presearch fam! 😀💃🏽💪🏽
 
@@ -16,17 +16,20 @@ Presearch is a decentralized search engine powered by the community. Search priv
 
 ## How can I get started?
 
-Head to our [website](https://engine.presearch.org) & start searching! If you're interested in learning more advanced things like Keyword Staking & running a node in the network, then you've come to the right place. Click either option below to get started:
+Head to our [website](https://presearch.com/) & start searching! If you're interested in learning more advanced things like Keyword Staking, Search Staking & running a node in the network, then you've come to the right place. Click either option below to get started:
 
 Let's set up a node in the [network](https://network.presearch.com):
 
-{% content-ref url="nodes/overview.md" %}
-[overview.md](nodes/overview.md)
+{% content-ref url="nodes/overview/" %}
+[overview](nodes/overview/)
 {% endcontent-ref %}
 
-Or Get you started with keyword staking
+Get you started with keyword staking
 
 {% content-ref url="keyword-staking/keyword-staking.md" %}
 [keyword-staking.md](keyword-staking/keyword-staking.md)
 {% endcontent-ref %}
 
+Get you started with Search Staking
+
+{% embed url="https://app.gitbook.com/o/-MWXXePdhVnzyfNZuOdX/s/-MS4taefedlYJ7UrPHAo/~/changes/189/search-staking-and-usage-rewards/search-staking-faq" %}

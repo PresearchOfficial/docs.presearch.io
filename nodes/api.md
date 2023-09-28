@@ -1,47 +1,15 @@
-# API Access
+# 🔠 API Access
 
 Your API key can be found at the bottom of the node dashboard page for any of your nodes: [https://nodes.presearch.com/dashboard](https://nodes.presearch.com/dashboard)
 
 {% swagger baseUrl="https://nodes.presearch.com" path="/api/nodes/status/:api_key" method="get" summary="Node Status API" %}
 {% swagger-description %}
-Return the current status of all your nodes as well as (optionally) aggregated data for those nodes.
-
+Return the current status of all your nodes as well as (optionally) aggregated data for those nodes.\
 \
-
-
-
-
+**Notes:**\
+\* The connected and disconnected parameters cannot both be set to "false".  In this case the default (connected only) will be used.\
 \
-
-
-
-
-**Notes:**
-
-\
-
-
-\* The connected and disconnected parameters cannot both be set to "false".  In this case the default (connected only) will be used.
-
-\
-
-
-
-
-\
-
-
-\* Replace 
-
-**:api_key**
-
- with your API key. For example: 
-
-_/api/nodes/status/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_
-
-\
-
-
+\* Replace **:api\_key** with your API key. For example: _/api/nodes/status/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_\
 
 {% endswagger-description %}
 
@@ -50,60 +18,36 @@ Your personal Node API key (this can be found at the bottom of the node dashboar
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="public_keys" type="string" %}
-A comma-separated list of node public keys.  If this parameter is specified, only those nodes will be returned.  This parameter overrides the connected, disconnected, and include_inactive parameters (ie: if the specified nodes are found they will be returned regardless of their current status).
+A comma-separated list of node public keys.  If this parameter is specified, only those nodes will be returned.  This parameter overrides the connected, disconnected, and include\_inactive parameters (ie: if the specified nodes are found they will be returned regardless of their current status).
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="start_date" type="string" %}
-UTC date/time in ANSI format (Y-m-d H:i) - Start of reporting period for any node activity and stats.
-
-\
-
-
+UTC date/time in ANSI format (Y-m-d H:i) - Start of reporting period for any node activity and stats.\
 (Default: 24 hours before current time)
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="end_date" type="string" %}
-UTC date/time in ANSI format (Y-m-d H:i) - End of reporting period for any node activity and stats.
-
-\
-
-
+UTC date/time in ANSI format (Y-m-d H:i) - End of reporting period for any node activity and stats.\
 (Default: current time)
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="stats" type="boolean" %}
-true|false - Whether or not to include aggregated historical stats for the nodes returned. Dates to aggregate between are specified with the start_date and end_date parameters.
-
-\
-
-
+true|false - Whether or not to include aggregated historical stats for the nodes returned. Dates to aggregate between are specified with the start\_date and end\_date parameters.\
 (Default: false)
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="connected" type="boolean" %}
-true|false - Currently connected nodes should be included in the returned list
-
-\
-
-
+true|false - Currently connected nodes should be included in the returned list\
 (Default: true)
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="disconnected" type="boolean" %}
-true|false - Currently disconnected nodes should be included in the returned list
-
-\
-
-
+true|false - Currently disconnected nodes should be included in the returned list\
 (Default: true)
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="include_inactive" type="boolean" %}
-true|false - whether to also include nodes that haven't been active during the specified timeframe set by start_date and end_date
-
-\
-
-
+true|false - whether to also include nodes that haven't been active during the specified timeframe set by start\_date and end\_date\
 (Default: false)
 {% endswagger-parameter %}
 

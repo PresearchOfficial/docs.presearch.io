@@ -4,7 +4,7 @@ description: >-
   various keywords is a smart strategy.
 ---
 
-# Strategy for Staking PRE
+# 🤝 Strategy for Staking PRE
 
 
 
@@ -45,7 +45,7 @@ In addition to words you are familiar with, you can use external tools like [Wor
 
 There are many [guides](https://neilpatel.com/blog/keyword-research/) to keyword research as well.
 
-A really basic trick that works well for identifying the popularity of search terms is to just go to Google.com and when you start typing in the search field, you’ll see a list of suggestions. Those are usually the suggestions are the most-typed words.![Image for post](https://miro.medium.com/max/60/1\*pNseQLccFPn5PdcdDKx4\_w.png?q=20)
+A really basic trick that works well for identifying the popularity of search terms is to just go to Google.com and when you start typing in the search field, you’ll see a list of suggestions. Those are usually the suggestions are the most-typed words.
 
 ![Image for post](https://miro.medium.com/max/4888/1\*pNseQLccFPn5PdcdDKx4\_w.png)
 
@@ -139,7 +139,11 @@ You do this by accessing the Keyword Staking portal (launching on January 29th, 
 
 ![Image for post](https://miro.medium.com/max/6720/1\*qH3J9efW8y4Ho7008AxqiQ.png)
 
-On the results list that drops down below the search field, click on ‘Stake This’ next to the word of your choice.      ![Image for post](https://miro.medium.com/max/3000/1\*MBbaV\_lI8JwEPp0DkDQYKg.png)
+On the results list that drops down below the search field, click on ‘Stake This’
+
+next to the word of your choice.  &#x20;
+
+&#x20;                           ![Image for post](https://miro.medium.com/max/3000/1\*MBbaV\_lI8JwEPp0DkDQYKg.png)
 
 You’ll then be taken to a screen that will show you who has the current highest stake amount (you can see the URL they are linking to) at the very bottom.
 
@@ -149,7 +153,9 @@ So if 1,000,000 PRE were staked against a term, you’d need to stake 1,010,000 
 
 Finally, choose the outbid notification frequency from the drop down menu. The options are ‘Real-Time’, ‘Daily’ and ‘Weekly’. The shorter the notification window, the more notifications you’ll receive. You can adjust this at any time.
 
-Once you’re satisfied with your stake, just hit the ‘Next’ button to lock it in and view your ad confirmation.          ![Image for post](https://miro.medium.com/max/3000/1\*yT9z3E6eyxnF9PZxan9lBA.png)
+Once you’re satisfied with your stake, just hit the ‘Next’ button to lock it in and view your ad confirmation.     &#x20;
+
+&#x20;                             ![Image for post](https://miro.medium.com/max/3000/1\*yT9z3E6eyxnF9PZxan9lBA.png)
 
 If you want to cancel a stake (to reallocate your PRE elsewhere, or if you made a mistake), just return to your dashboard and click the ‘Cancel Stake’ button.![Image for post](https://miro.medium.com/max/6720/1\*tTqd-Argy69ySR-tTm1uHQ.png)![Image for post](https://miro.medium.com/max/3000/1\*c447nR8tgBUKoB6KJ8KV\_A.png)
 

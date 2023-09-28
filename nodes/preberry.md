@@ -2,7 +2,7 @@
 description: This is a guide to get your own Preberry store up and running.
 ---
 
-# Preberry
+# 🫐 Preberry
 
 If you're on this page, it's either because you're interested in buying or selling Preberries. We're not quite ready to promote some of the rockstar distrubutors in the community, so in the meantime, we'll show you how to set up shop for selling Preberries.
 
@@ -26,18 +26,10 @@ or
 Now that you have the tools needed, we want you to run with it. Feel free to set up your own store, and order inventory. Make sure to have these ready to go when your customers order!\
 
 
-Please email collaborate@presearch.io your store when you have it live. We’ll be keeping tabs in the community to hear who has the best experience. We're excited for the community to take this and run with it!
+{% hint style="info" %}
+Please email _collaborate@presearch.io_ your store when you have it live. We’ll be keeping tabs in the community to hear who has the best experience. We're excited for the community to take this and run with it!
+{% endhint %}
 
 ## Distributor List
 
-**Coinmonsters (USA, Canada, South Korea, Brazil, India, Portugal, Italy, Spain, the Netherlands)**\
-[https://coinmonster.store/preberry](https://coinmonster.store/preberry)
-
-**Project Pi (Global)**
-
-[https://www.projectpi.xyz/product.html](https://www.projectpi.xyz/product.html)
-
-**Market Perceptions (Europe)**\
-[https://presearch-node.com](https://presearch-node.com)
-
-{% embed url="https://media.giphy.com/media/2E6OYt2yphlWTGZeYK/giphy.gif" %}
+<table><thead><tr><th width="171.33333333333331">Distributor</th><th width="245">Location</th><th>Link</th></tr></thead><tbody><tr><td><strong>Coinmonsters</strong></td><td>USA, Canada, South Korea, Brazil, India, Portugal, Italy, Spain, the Netherlands</td><td><a href="https://coinmonster.store/preberry">https://coinmonster.store/preberry</a></td></tr><tr><td><strong>Project Pi</strong> </td><td>Global</td><td><a href="https://www.projectpi.xyz/product.html">https://www.projectpi.xyz/product.html</a></td></tr><tr><td><strong>Market Perceptions</strong></td><td>Europe</td><td><a href="https://presearch-node.com">https://presearch-node.com</a></td></tr></tbody></table>

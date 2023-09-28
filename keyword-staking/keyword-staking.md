@@ -4,7 +4,7 @@ description: >-
   it builds the world’s first decentralized search engine framework.
 ---
 
-# What is Keyword Staking?
+# ⭐ What is Keyword Staking?
 
 {% embed url="https://youtu.be/rBZJEnXvuJQ" %}
 
@@ -20,19 +20,17 @@ We previously covered the [**challenges and opportunities**](https://medium.com/
 
 Keyword Staking enables token holders to commit or ‘stake’ their PRE tokens against specific words and multi-word terms.
 
-With [**Presearch Keyword Staking**](https://keywords.presearch.org/) you choose a keyword (ex. ‘Bitcoin’) and then stake PRE tokens that you’ve purchased or earned against that term. You can then create an ad that you link to the website of your choice.
+With [**Presearch Keyword Staking**](https://keywords.presearch.com/dashboard) you choose a keyword (ex. ‘Bitcoin’) and then stake PRE tokens that you’ve purchased or earned against that term. You can then create an ad that you link to the website of your choice.
 
 ![Image for post](https://miro.medium.com/max/6720/1\*qH3J9efW8y4Ho7008AxqiQ.png)
 
-Presearch Keyword Staking dashboard
+### Presearch Keyword Staking dashboard
 
 While tokens are staked, you continue to own and control your PRE, but you can’t use them to stake against other words and you can’t remove them from the Presearch platform. While they are staked they are effectively locked up.
 
 You can unlock or unstake them at any time to withdraw them to the blockchain or sell them, but then your associated ads will not show.
 
 This means that if you [**buy PRE tokens**](https://marketplace.presearch.org/), stake them against keywords, you can receive traffic while you have them locked up. You can sell your PRE later once you stop using them for staking, making the traffic you received absolutely free.
-
-
 
 ## **Ranking of keywords** <a href="#b7a3" id="b7a3"></a>
 

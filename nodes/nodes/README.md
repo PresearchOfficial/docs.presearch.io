@@ -2,7 +2,7 @@
 description: General questions around Presearch Nodes!
 ---
 
-# Nodes FAQ
+# ❓ Nodes FAQ
 
 {% content-ref url="./" %}
 [.](./)

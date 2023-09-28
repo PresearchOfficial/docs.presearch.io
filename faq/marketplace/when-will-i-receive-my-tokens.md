@@ -1,3 +1,0 @@
-# When will I receive my tokens?
-
-Tokens will show in your Presearch account immediately upon payment confirmation. It could take up to a few hours if you’re paying via cryptocurrency, though it’s usually 30 minutes or less. Credit Card orders are likewise typically processed within 30 minutes, though security holds on the card can occasionally cause unexpected delays. For those paying via USD, it depends on how long it takes for a wire transfer to be confirmed on our end. On average, it’s the next day. It can be as soon as the same day. If payment is being made from outside North America, it can take up to 5 business days.
