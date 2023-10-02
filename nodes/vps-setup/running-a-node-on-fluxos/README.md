@@ -16,7 +16,7 @@ First, go to [https://home.runonflux.io/](https://home.runonflux.io/) and login 
 
 Enter your Presearch Registration Code from your[ Node Dashboard](https://nodes.presearch.org/dashboard).
 
-![](<../../../../.gitbook/assets/Screen Shot 2022-01-10 at 12.34.55 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-01-10 at 12.34.55 PM.png>)
 
 ### Configure the app&#x20;
 

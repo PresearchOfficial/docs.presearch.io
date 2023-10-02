@@ -41,6 +41,10 @@
   * [How to Change Password](presearch-engine/faq/how-to-change-password.md)
   * [How to Update profile](presearch-engine/faq/how-to-update-profile.md)
 
+***
+
+* [Roadmap](roadmap.md)
+
 ## Nodes
 
 * [⭐ What is a Node?](nodes/overview/README.md)
@@ -49,16 +53,16 @@
   * [Generic installation instructions](nodes/setup/generic-installation-instructions.md)
   * [Node Configuration Parameters](nodes/setup/node-configuration-parameters.md)
   * [Individual Setup for various VPS providers](nodes/setup/vps-setup/README.md)
-    * [Running a node on FluxOS](nodes/setup/vps-setup/running-a-node-on-fluxos/README.md)
-      * [Flux Node Grandfathering](nodes/setup/vps-setup/running-a-node-on-fluxos/flux-node-grandfathering.md)
-    * [Running a node on Akash](nodes/setup/vps-setup/running-a-node-on-akash.md)
-    * [Running a node on ThreeFold](nodes/setup/vps-setup/threefold.md)
-    * [Running a Node on AWS](nodes/setup/vps-setup/aws.md)
-    * [Running a Node on Racknerd](nodes/setup/vps-setup/running-a-node-on-racknerd.md)
+    * [Running a node on FluxOS](nodes/vps-setup/running-a-node-on-fluxos/README.md)
+      * [Flux Node Grandfathering](nodes/vps-setup/running-a-node-on-fluxos/flux-node-grandfathering.md)
+    * [Running a node on Akash](nodes/vps-setup/running-a-node-on-akash.md)
+    * [Running a node on ThreeFold](nodes/vps-setup/threefold.md)
+    * [Running a Node on AWS](nodes/vps-setup/aws.md)
+    * [Running a Node on Racknerd](nodes/vps-setup/running-a-node-on-racknerd.md)
     * [Running a node on Microsoft Azure](nodes/setup/vps-setup/azure.md)
-    * [Running a node on Linux VPS](nodes/setup/vps-setup/linux-vps.md)
+    * [Running a node on Linux VPS](nodes/vps-setup/linux-vps.md)
     * [Running a node on Stack OS](nodes/setup/vps-setup/running-a-node-on-stack-os.md)
-  * [Setup Nodes on Raspberry Pi](nodes/setup/raspberry-pi.md)
+  * [Setup Nodes on Raspberry Pi](nodes/raspberry-pi.md)
 * [🔧 Troubleshooting and maintenance](nodes/troubleshooting-and-maintenance/README.md)
   * [Backing Up and Migrating Nodes](nodes/troubleshooting-and-maintenance/backing-up-and-migrating-nodes.md)
   * [Alternative to Backing up nodes](nodes/troubleshooting-and-maintenance/alternative-to-backing-up-nodes.md)
@@ -80,7 +84,7 @@
 * [⭐ What is Keyword Staking?](keyword-staking/keyword-staking.md)
 * [🤝 Strategy for Staking PRE](keyword-staking/strategy-for-staking-pre.md)
 * [📦 ADs Pricing](keyword-staking/ads-pricing.md)
-* [❓ Keywords FAQ](keyword-staking/keywords/README.md)
+* [Keywords FAQ](faq/keywords/README.md)
   * [How much does it cost to advertise on Presearch ?](keyword-staking/keywords/how-much-does-it-cost-to-advertise-on-presearch.md)
   * [How can I see keywords traffic ?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
   * [How to report bogus/abusive ADs from Keyword staking ?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)

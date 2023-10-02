@@ -18,7 +18,7 @@ In order to accommodate these use cases and provide greater flexibility to our c
 
 ### **Flux Nodes**
 
-Before this update, users had to [backup their public/private keypair](../../../troubleshooting-and-maintenance/backing-up-and-migrating-nodes.md) and migrate it to the new server instance anytime to preserve a grandfathered node stake from the old node if that staking level was no longer available. This is not currently possible with Flux, so we've added an ability to automatically migrate the stake from an old, disconnected Presearch node to a new node when it first joins the network.
+Before this update, users had to [backup their public/private keypair](../../troubleshooting-and-maintenance/backing-up-and-migrating-nodes.md) and migrate it to the new server instance anytime to preserve a grandfathered node stake from the old node if that staking level was no longer available. This is not currently possible with Flux, so we've added an ability to automatically migrate the stake from an old, disconnected Presearch node to a new node when it first joins the network.
 
 **As long as users don’t manually unstake from a disconnected node or delete it from the node dashboard then this function works when a new node spawns.** Once a new node is launched with the new parameters, it will unstake from the old, disconnected node and automatically stake the migrated amount on the newly launched node. This means the new node will be able to run with the previous stake after it is migrated . **If you are currently running a node dApp on the Flux network you need to update your app** according to the below instructions.\
 

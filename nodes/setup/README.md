@@ -51,12 +51,12 @@ If you prefer to use VPS machine, installation is done over SSH client applicati
 Please refer to the subchapter dedicated for each type of installation:
 
 * Setup Nodes Trough VPS
-  * [Running a Node on AWS](vps-setup/aws.md)
-  * [Running a Node on Racknerd](vps-setup/running-a-node-on-racknerd.md)
+  * [Running a Node on AWS](../vps-setup/aws.md)
+  * [Running a Node on Racknerd](../vps-setup/running-a-node-on-racknerd.md)
   * [Running a Node on Azure](vps-setup/azure.md)
   * [Running a Node on Oracle Cloud Infrastructure](broken-reference)
-  * [Running a Node on Linux VPS](vps-setup/linux-vps.md)
-* [Running a Node on ThreeFold](vps-setup/threefold.md)
+  * [Running a Node on Linux VPS](../vps-setup/linux-vps.md)
+* [Running a Node on ThreeFold](../vps-setup/threefold.md)
 
 ### Generic setup steps
 

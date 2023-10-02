@@ -39,37 +39,37 @@ On your main computer (not your Raspberry Pi):
 
 #### 1. Click "Choose OS"
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.29.08 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.29.08 AM.png>)
 
 #### 2. In the drop-down list, select the "Use custom" image option
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.29.58 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.29.58 AM.png>)
 
 #### 3. Find and select the `2021–05–07-raspios-buster-arm64.zip` image you downloaded.
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.31.10 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.31.10 AM.png>)
 
 #### 4. Click the "Choose Storage" Button
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-27 at 11.17.58 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-27 at 11.17.58 AM.png>)
 
 #### 5. Select the plugged in MicroSD Card
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.34.27 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.34.27 AM.png>)
 
 #### 6. Click the "WRITE" button
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.34.55 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.34.55 AM.png>)
 
 #### 7. Confirm that you understand all data on the MicroSD card will be erased:
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.35.18 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.35.18 AM.png>)
 
 #### 7. Wait for the operating system image to finish writing
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.35.46 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.35.46 AM.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 11.53.11 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-08-26 at 11.53.11 AM.png>)
 
 #### 9. Take the microSD card out of your main computer, insert it into your Raspberry Pi, and power on your Raspberry Pi.
 
@@ -77,7 +77,7 @@ On your main computer (not your Raspberry Pi):
 
 #### 10. When the Raspberry Pi boots for the first time, follow the instructions in the Setup Wizard to configure your system settings:&#x20;
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 You'll configure to following settings based upon your own needs:\
 • Country, Language, Timezone, Keyboard\
@@ -91,13 +91,13 @@ You'll configure to following settings based upon your own needs:\
 Do **NOT** skip the software updates, as it could expose your system to security issues or prevent your node from installing correctly.\
 
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 
 
 #### 12. On the final "Setup Complete" Screen, click "Restart".
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 Once your successfully system restarts, you'll be ready to install Docker and start your node!
 
@@ -107,7 +107,7 @@ To install Docker on your Raspberry Pi, perform the following steps
 
 #### 1. Click the Terminal icon in the system menu bar to open a terminal
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 #### 2. Run the following command to download and install Docker
 
@@ -125,4 +125,4 @@ Congratulations - Docker is now successfully installed and your system is ready 
 
 ## Install the Presearch Node
 
-The last step is to install your Presearch Node, which only requires running one more command! Follow the [**Node Setup Instructions** ](./) to run the final command to get your node up and running!
+The last step is to install your Presearch Node, which only requires running one more command! Follow the [**Node Setup Instructions** ](setup/) to run the final command to get your node up and running!

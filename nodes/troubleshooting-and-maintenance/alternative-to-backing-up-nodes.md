@@ -15,7 +15,7 @@ In order to accommodate these use cases and provide greater flexibility to our c
 At a high level:
 
 1. As long as you don't delete your node in your Presearch account or modify the stake (even if the node is disconnected or you've lost your keys), you'll be able to migrate your grandfathered stake to a new node.
-2. If you're running on a Flux from before July 1, 2022, you'll need to [update your Flux app](../setup/vps-setup/running-a-node-on-fluxos/) in order to turn on this migration feature.
+2. If you're running on a Flux from before July 1, 2022, you'll need to [update your Flux app](../vps-setup/running-a-node-on-fluxos/) in order to turn on this migration feature.
 3. The current mechanism for backing up your node's keys and restoring on another server still works and is required if you want to continue with your node's same identity, stats, and earning history after migration. This new mechanism is simply available as a convenience for those who don't have access to the node's public/private keys or don't want to deal with the hassle of backing them up and just want to migrate their old grandfathered in stake to a new node.
 
 Essentially, on the startup of a node that you currently have setup, you need to use add the following new environment variables to your startup command beside where you add your registration code :

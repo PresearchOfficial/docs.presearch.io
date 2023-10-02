@@ -19,12 +19,12 @@ Thanks to TA Keith for this Community Tutorial!
   * Click save in the top right corner
   * Click the 3 dots next to your newly minted host and click "connect via SSH"
 
-![](<../../../.gitbook/assets/Screen Shot 2021-10-11 at 10.30.19 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2021-10-11 at 10.30.19 PM.png>)
 
 * You're now connected to your VPS!
 * After this, you need to run the command from the [node setup page](https://docs.presearch.org/nodes/setup), not forgetting to insert your registration code from your [dashboard](https://nodes.presearch.org/dashboard).
 * Once you see the Presearch Logo, you're good to go!
-* ![](<../../../.gitbook/assets/Screen Shot 2021-10-11 at 10.33.11 PM.png>)
+* ![](<../../.gitbook/assets/Screen Shot 2021-10-11 at 10.33.11 PM.png>)
 * You can now go to your [dashboard](https://nodes.presearch.org/dashboard) and stake your PRE on your brand new node!
 
-![](../../../.gitbook/assets/X8Ko9\_18AVAA5KFT.gif)
+![](../../.gitbook/assets/X8Ko9\_18AVAA5KFT.gif)
