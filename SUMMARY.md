@@ -127,3 +127,7 @@
 
 * [iOS](apps/ios.md)
 * [Android Browser](apps/android-browser.md)
+
+***
+
+* [Other](search-api.md)
