@@ -14,6 +14,14 @@ Want an easy solution that you can get up and running in a few minutes for free?
 [threefold.md](../../vps-setup/threefold.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../vps-setup/running-a-node-on-fluxos/" %}
+[running-a-node-on-fluxos](../../vps-setup/running-a-node-on-fluxos/)
+{% endcontent-ref %}
+
+{% content-ref url="../../vps-setup/running-a-node-on-akash.md" %}
+[running-a-node-on-akash.md](../../vps-setup/running-a-node-on-akash.md)
+{% endcontent-ref %}
+
 {% content-ref url="../../vps-setup/aws.md" %}
 [aws.md](../../vps-setup/aws.md)
 {% endcontent-ref %}
@@ -32,8 +40,4 @@ Want an easy solution that you can get up and running in a few minutes for free?
 
 {% content-ref url="../../vps-setup/linux-vps.md" %}
 [linux-vps.md](../../vps-setup/linux-vps.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../vps-setup/running-a-node-on-fluxos/" %}
-[running-a-node-on-fluxos](../../vps-setup/running-a-node-on-fluxos/)
 {% endcontent-ref %}

@@ -10,7 +10,7 @@
   * [How to Buy PRE Tokens in the United States Using USD: A Comprehensive Guide](presearch-project/pre-purchasing-options/how-to-buy-pre-tokens-in-the-united-states-using-usd-a-comprehensive-guide.md)
   * [Supported Exchanges](presearch-project/pre-purchasing-options/supported-exchanges.md)
   * [Buy with Credit Card](presearch-project/pre-purchasing-options/buy-with-credit-card.md)
-* [🗺 Roadmap](presearch-project/roadmap.md)
+* [🗺 Roadmap](roadmap.md)
 * [❓ General FAQ](presearch-project/presearch-project-faq/README.md)
   * [Which blockchain do PRE Tokens operate on?](presearch-project/presearch-project-faq/which-blockchain-do-pre-tokens-operate-on.md)
   * [How many tokens can I buy?](presearch-project/presearch-project-faq/how-many-tokens-can-i-buy.md)
