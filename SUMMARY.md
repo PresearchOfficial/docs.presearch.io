@@ -10,6 +10,7 @@
   * [How to Buy PRE Tokens in the United States Using USD: A Comprehensive Guide](presearch-project/pre-purchasing-options/how-to-buy-pre-tokens-in-the-united-states-using-usd-a-comprehensive-guide.md)
   * [Supported Exchanges](presearch-project/pre-purchasing-options/supported-exchanges.md)
   * [Buy with Credit Card](presearch-project/pre-purchasing-options/buy-with-credit-card.md)
+* [🗺 Roadmap](presearch-project/roadmap.md)
 * [❓ General FAQ](presearch-project/presearch-project-faq/README.md)
   * [Which blockchain do PRE Tokens operate on?](presearch-project/presearch-project-faq/which-blockchain-do-pre-tokens-operate-on.md)
   * [How many tokens can I buy?](presearch-project/presearch-project-faq/how-many-tokens-can-i-buy.md)
@@ -40,10 +41,6 @@
   * [How to Add New Search Providers to your Presearch Dashboard](presearch-engine/faq/how-to-add-new-search-providers-to-your-presearch-dashboard.md)
   * [How to Change Password](presearch-engine/faq/how-to-change-password.md)
   * [How to Update profile](presearch-engine/faq/how-to-update-profile.md)
-
-***
-
-* [Roadmap](roadmap.md)
 
 ## Nodes
 
@@ -84,7 +81,7 @@
 * [⭐ What is Keyword Staking?](keyword-staking/keyword-staking.md)
 * [🤝 Strategy for Staking PRE](keyword-staking/strategy-for-staking-pre.md)
 * [📦 ADs Pricing](keyword-staking/ads-pricing.md)
-* [Keywords FAQ](faq/keywords/README.md)
+* [❓ Keywords FAQ](faq/keywords/README.md)
   * [How much does it cost to advertise on Presearch ?](keyword-staking/keywords/how-much-does-it-cost-to-advertise-on-presearch.md)
   * [How can I see keywords traffic ?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
   * [How to report bogus/abusive ADs from Keyword staking ?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)

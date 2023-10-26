@@ -12,7 +12,7 @@ description: Note this doc was created by a Presearch community member
 
 **Presearch - The Future of Search is a Decentralized Harmonious Loop**
 
-![presearch google sucks.jpg](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmVrE4986k8tSFi5bepeeXqSCcNHcLTtSxbtNeYzbEeXJK/presearch%20google%20sucks.jpg)
+![Meme of the day](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmVrE4986k8tSFi5bepeeXqSCcNHcLTtSxbtNeYzbEeXJK/presearch%20google%20sucks.jpg)
 
 ### Overview
 
@@ -26,7 +26,7 @@ This project is really coming along. I've seen the test-net for the new engine a
 
 [https://www.presearch.io/vision.pdf](https://www.presearch.io/vision.pdf)
 
-First thing you may want to do is buy at least 2,000 PRE so that you can stake them to your node to start earning. If you're brand new to Crypto, you can buy PRE directly from Presearch at [https://presearch.org/signu](https://presearch.org/signup)[p\
+First thing you may want to do is buy at least 4,000 PRE so that you can stake them to your node to start earning. If you're brand new to Crypto, you can buy PRE directly from Presearch at [https://presearch.org/signu](https://presearch.org/signup)[p\
 ](https://www.presearch.org/signup?rid=1990186)
 
 If you are more experienced using exchanges or already have some cryptocurrency you can head over to KuCoin:
@@ -81,19 +81,21 @@ For this next step, you’ll need to grab your registration code from nodes.pres
 
 Replace your code where it says, "$YOUR\_REGISTRATION\_CODE\_HERE"
 
-`docker stop presearch-node ; docker rm presearch-node ; docker stop presearch-auto-updater ; docker rm presearch-auto-updater ; docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run/docker.sock:/var/run/docker.sock presearch/auto-updater --cleanup --interval 900 presearch-auto-updater presearch-node ; docker pull presearch/node ; docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE presearch/node ; docker logs -f presearch-node`
+{% code overflow="wrap" %}
+```bash
+docker stop presearch-node ; docker rm presearch-node ; docker stop presearch-auto-updater ; docker rm presearch-auto-updater ; docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run/docker.sock:/var/run/docker.sock presearch/auto-updater --cleanup --interval 900 presearch-auto-updater presearch-node ; docker pull presearch/node ; docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE presearch/node ; docker logs -f presearch-node
+```
+{% endcode %}
 
 ### Step V.) Check Node Status & Useful Commands
 
-#### 1.
+#### 1. Display logs
 
 If you would like to see the output from your node at any point, just run the following command. You can close the window at any point and your node will keep running:
 
 `docker logs -f presearch-node`
 
-#### 2.
-
-Other Useful Commands
+#### 2. Other Useful Commands
 
 System Reboot:\
 `sudo reboot`
@@ -131,9 +133,6 @@ For additional information check out these notes from a Presearch community memb
 You should now have a node running on the Presearch network! Refresh the page at
 
 [https://nodes.presearch.org/dashboard](https://nodes.presearch.org/dashboard)
-
-[\
-](https://www.presearch.org/signup?rid=1990186)
 
 See if you're connected over there and stake your node from that page. Run your node, stake PRE to keywords to run ads (essentially free advertising to enthusiastic crypto audience), or just get paid PRE to search. Make your default search provider on Brave Browser and you are double earning BAT and PRE while you browse.
 
