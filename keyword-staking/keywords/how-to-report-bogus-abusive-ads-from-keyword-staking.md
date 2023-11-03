@@ -2,7 +2,7 @@
 
 To report an ad within the Presearch search engine ([https://presearch.com](https://presearch.com/)), the first thing you must do is click on the flag that is at the end of the ad.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then select the option for which you are reporting the AD, there is also a box to make more precise comments.
 

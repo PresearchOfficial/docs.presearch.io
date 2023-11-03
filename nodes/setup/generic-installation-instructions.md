@@ -10,7 +10,7 @@ description: If you do not know where to start. Here is the the default starting
 
 <div align="center">
 
-<img src="../../.gitbook/assets/image (10) (1).png" alt="">
+<img src="../../.gitbook/assets/image (10) (1) (1).png" alt="">
 
 </div>
 

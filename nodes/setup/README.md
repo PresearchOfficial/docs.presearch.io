@@ -66,7 +66,7 @@ Please refer to the subchapter dedicated for each type of installation:
 
 <div align="center">
 
-<img src="../../.gitbook/assets/image (10) (1).png" alt="">
+<img src="../../.gitbook/assets/image (10) (1) (1).png" alt="">
 
 </div>
 
@@ -106,7 +106,7 @@ The _presearch-node_ actually runs the decentralized search software, whereas th
 
 Keep an eye on the running node output and you’ll eventually see incoming searches (“Success! ...”). You can run searches yourself at [https://testnet-engine.presearch.com](https://testnet-engine.presearch.com), though keep in mind these will be distributed across all nodes in the Testnet, not just yours.
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 ## Managing your Node
 

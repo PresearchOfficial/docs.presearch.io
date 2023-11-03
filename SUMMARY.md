@@ -41,6 +41,7 @@
   * [How to Add New Search Providers to your Presearch Dashboard](presearch-engine/faq/how-to-add-new-search-providers-to-your-presearch-dashboard.md)
   * [How to Change Password](presearch-engine/faq/how-to-change-password.md)
   * [How to Update profile](presearch-engine/faq/how-to-update-profile.md)
+* [MetaSearch](presearch-engine/metasearch.md)
 
 ## Nodes
 
@@ -98,6 +99,7 @@
 
 * [🆘 Presearch Support](support/presearch-support.md)
 * [🗞 Presearch News](support/presearch-news.md)
+* [📝 Press Release](support/press-release.md)
 
 ## NFTs
 

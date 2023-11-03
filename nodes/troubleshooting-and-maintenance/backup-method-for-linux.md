@@ -27,7 +27,7 @@ Above instructions do:
 1. create a new folder called "**presearch-node-keys**" directly in your users home folder at remote machine or VPS
 2. copy identity keys (public key) **id\_rsa.pub** and (private key) **id\_rsa** into folder presearch-node-keys
 
-![Sample output of instruction](<../../.gitbook/assets/image (16) (1).png>)
+![Sample output of instruction](<../../.gitbook/assets/image (16) (1) (1).png>)
 
 ### 2. Transfer backup under the hood
 
