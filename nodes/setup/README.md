@@ -96,11 +96,11 @@ The _presearch-node_ actually runs the decentralized search software, whereas th
 * Executig installation under wrong environement
   * Using Linux  / Mac / Windows - Powershell commands under Windows - Command Line and  vice-versa
 * Typo with registration code
-  * API key being pasted instead of registration code
-  * blank space between = and code itself
-  * forgotten $ right after =
-  * excluded part of registration code / omiited characters
-  * remove part of the installation instruction (ea. "presearch/node" after the code)
+  * Ensure you are using the registration code and not the API key
+  * No blank space between = and the code itself
+  * Be sure to remove the $ right after =
+  * Use the full registration code, do not omit any characters
+  * Include the entire installation instruction (e.g., include "presearch/node" after the code)
 
 ## Running Searches
 
