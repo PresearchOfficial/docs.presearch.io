@@ -10,7 +10,7 @@
   * [How to Buy PRE Tokens in the United States Using USD: A Comprehensive Guide](presearch-project/pre-purchasing-options/how-to-buy-pre-tokens-in-the-united-states-using-usd-a-comprehensive-guide.md)
   * [Supported Exchanges](presearch-project/pre-purchasing-options/supported-exchanges.md)
   * [Buy with Credit Card](presearch-project/pre-purchasing-options/buy-with-credit-card.md)
-* [🗺 Roadmap](roadmap.md)
+* [🗺️ Roadmap](roadmap.md)
 * [❓ General FAQ](presearch-project/presearch-project-faq/README.md)
   * [Which blockchain do PRE Tokens operate on?](presearch-project/presearch-project-faq/which-blockchain-do-pre-tokens-operate-on.md)
   * [How many tokens can I buy?](presearch-project/presearch-project-faq/how-many-tokens-can-i-buy.md)
@@ -47,7 +47,7 @@
 
 * [⭐ What is a Node?](nodes/overview/README.md)
   * [Hardware and system requirements](nodes/overview/hardware-and-system-requirements.md)
-* [⚙ Node Setup Instructions](nodes/setup/README.md)
+* [⚙️ Node Setup Instructions](nodes/setup/README.md)
   * [Generic installation instructions](nodes/setup/generic-installation-instructions.md)
   * [Node Configuration Parameters](nodes/setup/node-configuration-parameters.md)
   * [Individual Setup for various VPS providers](nodes/setup/vps-setup/README.md)
@@ -98,7 +98,7 @@
 ## Support
 
 * [🆘 Presearch Support](support/presearch-support.md)
-* [🗞 Presearch News](support/presearch-news.md)
+* [🗞️ Presearch News](support/presearch-news.md)
 * [📝 Press Release](support/press-release.md)
 
 ## NFTs

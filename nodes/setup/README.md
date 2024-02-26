@@ -2,7 +2,7 @@
 description: Get your node up and running in just a few minutes on your computer.
 ---
 
-# ⚙ Node Setup Instructions
+# ⚙️ Node Setup Instructions
 
 We're excited to have you be a part of the future of search. Tens of thousands of nodes are already being operated by Presearch node operators and these nodes provide the infrastructure for the main Presearch search experience, which can be searched via: [https://presearch.com ](https://presearch.com)
 
@@ -104,7 +104,7 @@ The _presearch-node_ actually runs the decentralized search software, whereas th
 
 ## Running Searches
 
-Keep an eye on the running node output and you’ll eventually see incoming searches (“Success! ...”). You can run searches yourself at [https://testnet-engine.presearch.com](https://testnet-engine.presearch.com), though keep in mind these will be distributed across all nodes in the Testnet, not just yours.
+Keep an eye on the running node output and you’ll eventually see incoming searches (“Success! ...”). You can run searches yourself at [https://presearch.com](https://presearch.com), though keep in mind these will be distributed across all nodes in the Testnet, not just yours.
 
 ![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
