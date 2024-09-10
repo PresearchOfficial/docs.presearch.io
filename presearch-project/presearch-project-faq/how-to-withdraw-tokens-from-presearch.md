@@ -78,7 +78,9 @@ It may take up to 5 minutes for the tokens to appear in your account, but rest a
 
 The PRE tokens are now in your account. You can deposit them back into the [platform at any time.](https://keywords.presearch.com/transfer-tokens/blockchain) We know it's been a long time coming and appreciate your patience as we built out Web3 withdrawals.
 
-###
+### Video Tutorial for PRE Deposits and Withdrawals
+
+{% embed url="https://youtu.be/Agy-1nDH27c" %}
 
 
 
