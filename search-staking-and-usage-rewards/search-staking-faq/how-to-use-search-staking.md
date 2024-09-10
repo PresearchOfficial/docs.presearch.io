@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-## How it works <a href="#7592" id="7592"></a>
+## How it works <a href="#id-7592" id="id-7592"></a>
 
 How it works By default all users receive 0.01 PRE per search, up to 25 searches per day.
 
@@ -70,4 +70,8 @@ Examples of rewards under this formula:
 
 
 
-[https://news.presearch.io/introducing-search-staking-21b94285c2fb](https://news.presearch.io/introducing-search-staking-21b94285c2fb)
+{% embed url="https://news.presearch.io/introducing-search-staking-21b94285c2fb" %}
+
+## Video Tutorial for Search Stake <a href="#id-7592" id="id-7592"></a>
+
+{% embed url="https://youtu.be/_lanwB0EhE4" %}
