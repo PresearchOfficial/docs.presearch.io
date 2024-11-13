@@ -42,11 +42,11 @@ To prevent fraud and money laundering, we need to verify your identity. Ahoracry
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt="" width="452"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (144).png" alt="" width="301"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt="" width="447"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt="" width="298"><figcaption></figcaption></figure>
 
  
 
