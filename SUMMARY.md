@@ -12,6 +12,7 @@
   * [Buy with Credit Card](presearch-project/pre-purchasing-options/buy-with-credit-card.md)
   * [How to Swap PRE in Trust Wallet](presearch-project/pre-purchasing-options/how-to-swap-pre-in-trust-wallet.md)
   * [How to Swap PRE in Metamask Wallet](presearch-project/pre-purchasing-options/how-to-swap-pre-in-metamask-wallet.md)
+  * [How to buy PRE in AhoraCrypto.com](presearch-project/pre-purchasing-options/how-to-buy-pre-in-ahoracrypto.com.md)
 * [🗺️ Roadmap](roadmap.md)
 * [🛡️ Web3 - Safety, Troubleshooting & Best practices](presearch-project/web3-safety-troubleshooting-and-best-practices.md)
 * [❓ General FAQ](presearch-project/presearch-project-faq/README.md)
