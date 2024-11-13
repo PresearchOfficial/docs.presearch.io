@@ -22,7 +22,7 @@ Enter the platform [ahoracrypto.com](https://ahoracrypto.com/)
 
 **Step 3**
 
-&#x20;Enter your wallet address. If you don't have a wallet, don't worry! We will create a wallet for you for free and make sure you select the correct network in this case it is the ETH network.
+Enter your wallet address. If you don't have a wallet, don't worry! Ahoracrypto will create a wallet for you for free and make sure you select the correct network; in this case, the ETH network.
 
 <div align="left">
 
@@ -38,7 +38,7 @@ Enter the platform [ahoracrypto.com](https://ahoracrypto.com/)
 
 **Verify your identity**&#x20;
 
-To prevent fraud and money laundering, we need to verify your identity. We will ask you for an email, phone number, selfie and a photo of your ID.
+To prevent fraud and money laundering, we need to verify your identity. Ahoracrypto will ask you for an email, a phone number, a selfie and a photo of your ID.
 
 <div align="left">
 
