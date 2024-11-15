@@ -50,11 +50,11 @@ To prevent fraud and money laundering, we need to verify your identity. Ahoracry
 
  
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-**Step 5**
+**Step5**
 
 **Pay with your credit card**
 
