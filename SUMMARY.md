@@ -92,6 +92,7 @@
   * [Is there a node network explorer or some kind of overview page ?](nodes/nodes/is-there-a-node-network-explorer-or-some-kind-of-overview-page.md)
   * [Will there be IPv6 support for Presearch nodes ?](nodes/nodes/will-there-be-ipv6-support-for-presearch-nodes.md)
   * [Can I run Presearch node besides Flux node ?](nodes/nodes/can-i-run-presearch-node-besides-flux-node.md)
+  * [IOS application to view node statistics](nodes/nodes/ios-application-to-view-node-statistics.md)
 
 ## Keyword Staking
 
