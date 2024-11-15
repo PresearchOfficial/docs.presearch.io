@@ -24,7 +24,7 @@ Enter the platform [ahoracrypto.com](https://ahoracrypto.com/)
 
 Enter your wallet address. If you don't have a wallet, don't worry! Ahoracrypto will create a wallet for you for free and make sure you select the correct network; in this case, the ETH network.
 
-<div align="left">
+<div align="center">
 
 <figure><img src="../../.gitbook/assets/image (140).png" alt="" width="302"><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Enter your wallet address. If you don't have a wallet, don't worry! Ahoracrypto 
 
 To prevent fraud and money laundering, we need to verify your identity. Ahoracrypto will ask you for an email, a phone number, a selfie and a photo of your ID.
 
-<div align="left">
+<div align="center">
 
 <figure><img src="../../.gitbook/assets/image (144).png" alt="" width="301"><figcaption></figcaption></figure>
 
@@ -48,13 +48,11 @@ To prevent fraud and money laundering, we need to verify your identity. Ahoracry
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt="" width="298"><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-
 </div>
 
-**Step5**
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="480"><figcaption></figcaption></figure>
+
+**Step 5**
 
 **Pay with your credit card**
 
