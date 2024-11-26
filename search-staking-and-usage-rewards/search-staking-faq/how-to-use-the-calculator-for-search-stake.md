@@ -4,7 +4,7 @@ description: Search stake calculator
 
 # How to use the calculator for Search Stake
 
-The first thing you need to do to use the calculator for Search Stake is go to [https://www.stakingrewards.com/asset/presearch](https://www.stakingrewards.com/asset/presearch)
+The first thing you need to do to use the calculator for Search Stake is go to [https://www.stakingrewards.com/asset/presearch/calculator](https://www.stakingrewards.com/asset/presearch/calculator)
 
 Once inside the page you have to go down to where it says “Enter Staking Amount” and place the amount of PRE in Stake.
 
