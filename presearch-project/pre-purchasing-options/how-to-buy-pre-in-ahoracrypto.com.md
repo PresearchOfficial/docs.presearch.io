@@ -22,33 +22,21 @@ Enter the platform [ahoracrypto.com](https://ahoracrypto.com/)
 
 **Step 3**
 
-Enter your wallet address. If you don't have a wallet, don't worry! Ahoracrypto will create a wallet for you for free and make sure you select the correct network; in this case, the ETH network.
+Enter your wallet address. If you don't have a wallet, don't worry! Ahoracrypto will create a wallet for you for free, make sure you select the correct network which can be either ETH or BASE; for this example we will use the ETH network.
 
-<div align="center">
+<div align="center"><figure><img src="../../.gitbook/assets/image (140).png" alt="" width="302"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (155).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt="" width="302"><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../../.gitbook/assets/image (153).png" alt="" width="322"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (154).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
- 
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt="" width="322"><figcaption></figcaption></figure>
 
-</div>
 
-**Step 4**
 
 **Verify your identity**&#x20;
 
 To prevent fraud and money laundering, we need to verify your identity. Ahoracrypto will ask you for an email, a phone number, a selfie and a photo of your ID.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (144).png" alt="" width="301"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (143).png" alt="" width="298"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (144).png" alt="" width="301"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (143).png" alt="" width="298"><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="480"><figcaption></figcaption></figure>
 
@@ -60,7 +48,7 @@ You only have to enter your payment details, confirm the order and receive your 
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Video tutorial to buy PRE within Ahoracrypto.com**
+**Video tutorial to buy PRE within Ahoracrypto.com**
 
 {% embed url="https://youtu.be/Pb1hV2HtcxE" %}
 

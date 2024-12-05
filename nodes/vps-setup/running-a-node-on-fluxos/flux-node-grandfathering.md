@@ -34,19 +34,19 @@ This is clearly a massive benefit to the user experience, as users currently hav
 
 1- Open your Zelcore multi asset crypto wallet platform and login in your account.
 
-_2- Open your browser and g_o to FluxOS network website. [https://home.runonflux.io](https://home.runonflux.io/)
+_2- Open your browser and &#x67;_&#x6F; to FluxOS network website. [https://home.runonflux.io](https://home.runonflux.io/)
 
-![](https://miro.medium.com/max/1400/1\*CBfqLJmWz4qC4H7tGJ7MNA.png)
+![](https://miro.medium.com/max/1400/1*CBfqLJmWz4qC4H7tGJ7MNA.png)
 
 3- Press ZelId icon on FluxOs network website. This will open Zelcore with a message to sign. Sign it & open the browser again and you will be already logged in.&#x20;
 
 4- In the browser, press Apps -> Global Applications -> in the My Apps tab and you should see your app.
 
-![](https://miro.medium.com/max/1400/1\*p383kAAzvsPdKcghJLOcYw.png)
+![](https://miro.medium.com/max/1400/1*p383kAAzvsPdKcghJLOcYw.png)
 
 5\. Press Manage and Update Specifications.
 
-![](https://miro.medium.com/max/1400/1\*vWHO45Xo1cqZOysXPW-Xwg.png)
+![](https://miro.medium.com/max/1400/1*vWHO45Xo1cqZOysXPW-Xwg.png)
 
 You can scroll down and see the environment values of your app where your node key, and other node startup values are. **If you are updating an old version of the app running on the network this is where you will have to introduce changes.**
 
@@ -70,7 +70,7 @@ Make sure to update $YOUR\_REGISTRATION\_CODE\_HERE with the code from the platf
 * after signed, press Update Flux App
 * scroll down again, pay with Zelcore!
 
-![](https://miro.medium.com/max/1400/1\*MpqtefYAkiEEpMpu72eqVg.png)
+![](https://miro.medium.com/max/1400/1*MpqtefYAkiEEpMpu72eqVg.png)
 
 7\.  After you have paid the app update, it will take few minutes for you to see it updated on Global Apps.&#x20;
 
