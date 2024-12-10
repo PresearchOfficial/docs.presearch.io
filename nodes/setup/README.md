@@ -64,11 +64,7 @@ Please refer to the subchapter dedicated for each type of installation:
 
 2\. Get your node registration code at [https://nodes.presearch.com/dashboard](https://nodes.presearch.com/dashboard).
 
-<div align="center">
-
-<img src="../../.gitbook/assets/image (10) (1) (1).png" alt="">
-
-</div>
+<div align="center"><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""></div>
 
 3\. Run the node start commands below in your terminal to install your node \
 \[ See tutorials for how to open terminal on [Mac](https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/) & [Windows](https://www.wikihow.com/Open-Terminal-in-Windows) ]
@@ -77,7 +73,7 @@ Copy/Paste the operating-system-specific command below into your terminal:
 
 {% tabs %}
 {% tab title="Linux/Mac/PREberry/Windows-Powershell" %}
-`docker stop presearch-node ; docker rm presearch-node ; docker stop presearch-auto-updater ; docker rm presearch-auto-updater ; docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run/docker.sock:/var/run/docker.sock presearch/auto-updater --cleanup --interval 900 presearch-auto-updater presearch-node ; docker pull presearch/node ; docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE presearch/node ; docker logs -f presearch-node`
+`docker stop presearch-node ; docker rm presearch-node ; docker stop presearch-auto-updater ; docker rm presearch-auto-updater ; docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run/docker.sock:/var/run/docker.sock presearch/auto-updater --cleanup --interval 900 presearch-auto-updater presearch-node ; docker pull presearch/node ; docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=YOUR_REGISTRATION_CODE_HERE presearch/node ; docker logs -f presearch-node`
 {% endtab %}
 
 {% tab title="Windows-Command Line" %}
@@ -85,7 +81,7 @@ Copy/Paste the operating-system-specific command below into your terminal:
 {% endtab %}
 {% endtabs %}
 
-**IMPORTANT:** You need to insert your registration code from step #2 above into the script by replacing the text`$YOUR_REGISTRATION_CODE_HERE`with your actual registration code. So, for example, if your registration code is `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` then the final command would contain the text `REGISTRATION_CODE=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` .
+**IMPORTANT:** You need to insert your registration code from step #2 above into the script by replacing the text`YOUR_REGISTRATION_CODE_HERE`with your actual registration code. So, for example, if your registration code is `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` then the final command would contain the text `REGISTRATION_CODE=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` .
 
 The above command installs two services on your computer, the _**presearch-node**_ and the _**presearch-auto-updater**_**,** and configure both of them to be always running in the background.&#x20;
 
@@ -98,7 +94,6 @@ The _presearch-node_ actually runs the decentralized search software, whereas th
 * Typo with registration code
   * Ensure you are using the registration code and not the API key
   * No blank space between = and the code itself
-  * Be sure to remove the $ right after =
   * Use the full registration code, do not omit any characters
   * Include the entire installation instruction (e.g., include "presearch/node" after the code)
 

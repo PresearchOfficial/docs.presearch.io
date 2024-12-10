@@ -7,7 +7,7 @@ When starting your node for the first time, the only required parameter is the n
 {% code overflow="wrap" %}
 ```bash
 ...
-docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE presearch/node
+docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=YOUR_REGISTRATION_CODE_HERE presearch/node
 ...
 ```
 {% endcode %}
@@ -17,7 +17,7 @@ If you also wanted to add a description to your node or a stake when first creat
 {% code overflow="wrap" %}
 ```bash
 ...
-docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=$YOUR_REGISTRATION_CODE_HERE -e DESCRIPTION="My First Node" -e STAKE=10000 presearch/node
+docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=YOUR_REGISTRATION_CODE_HERE -e DESCRIPTION="My First Node" -e STAKE=10000 presearch/node
 ...
 ```
 {% endcode %}
