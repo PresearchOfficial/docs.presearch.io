@@ -114,6 +114,7 @@
 
 ***
 
+* [Page](page.md)
 * [AD-FREE SUBSCRIPTION](ad-free-subscription/README.md)
   * [How to activate the Ad-Free Subscription](ad-free-subscription/how-to-activate-the-ad-free-subscription.md)
 
