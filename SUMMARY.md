@@ -111,8 +111,10 @@
 * [❓ Search Staking FAQ](search-staking-and-usage-rewards/search-staking-faq/README.md)
   * [How to use Search staking ?](search-staking-and-usage-rewards/search-staking-faq/how-to-use-search-staking.md)
   * [How to use the calculator for Search Stake](search-staking-and-usage-rewards/search-staking-faq/how-to-use-the-calculator-for-search-stake.md)
-* [AD-FREE SUBSCRIPTION](search-staking-and-usage-rewards/ad-free-subscription/README.md)
-  * [How to activate the Ad-Free Subscription](search-staking-and-usage-rewards/ad-free-subscription/how-to-activate-the-ad-free-subscription.md)
+
+## AD-FREE SUBSCRIPTION
+
+* [How to use the Ad-Free Subscription](ad-free-subscription/how-to-use-the-ad-free-subscription.md)
 
 ## Support
 
