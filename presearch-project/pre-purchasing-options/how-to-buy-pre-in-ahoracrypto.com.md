@@ -38,7 +38,7 @@ To prevent fraud and money laundering, we need to verify your identity. Ahoracry
 
 <div align="center"><figure><img src="../../.gitbook/assets/image (144).png" alt="" width="301"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (143).png" alt="" width="298"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 5**
 
