@@ -1,5 +1,6 @@
 ---
 description: To use the ad-free feature, here are the steps to enable it...
+icon: rectangle-ad
 ---
 
 # How to use the Ad-Free Subscription
