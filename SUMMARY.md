@@ -112,9 +112,9 @@
   * [How to use Search staking ?](search-staking-and-usage-rewards/search-staking-faq/how-to-use-search-staking.md)
   * [How to use the calculator for Search Stake](search-staking-and-usage-rewards/search-staking-faq/how-to-use-the-calculator-for-search-stake.md)
 
-## AD-FREE SUBSCRIPTION
+## AD-FREE SEARCH FEATURE
 
-* [How to use the Ad-Free Subscription](ad-free-subscription/how-to-use-the-ad-free-subscription.md)
+* [How to use the Ad-Free Search Feature](ad-free-search-feature/how-to-use-the-ad-free-search-feature.md)
 
 ## Support
 

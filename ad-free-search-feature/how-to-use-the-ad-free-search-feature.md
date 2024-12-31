@@ -1,9 +1,9 @@
 ---
-description: To use the ad-free feature, here are the steps to enable it...
 icon: rectangle-ad
+description: To use the ad-free search feature, here are the steps to enable it...
 ---
 
-# How to use the Ad-Free Subscription
+# How to use the Ad-Free Search Feature
 
 1. &#x20;**Select the hamburger icon.**
 
