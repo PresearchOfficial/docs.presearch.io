@@ -2,4 +2,4 @@
 
 **You can get the Presearch Whitepaper here.**
 
-{% embed url="https://presearch.io/vision.pdf" %}
+{% file src="../../.gitbook/assets/vision paper presearch.pdf" %}
