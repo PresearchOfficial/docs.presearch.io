@@ -8,9 +8,21 @@ To help you store your PRE in your own outside wallet, we’ve compiled an ever-
 
 &#x20;![](<../../.gitbook/assets/image (172).png>)[https://metamask.io](https://metamask.io/es/)
 
-&#x20; &#x20;
+![Image for post](https://miro.medium.com/max/2000/0*jpIobZRUSfWMx_f5.png)[https://trustwallet.com](https://trustwallet.com/)![Image for post](https://miro.medium.com/max/2400/0*6x-H_5ZxTI9A-e-y.jpg)[https://www.coinomi.com](https://www.coinomi.com/)![Image for post](https://miro.medium.com/max/1300/1*8Izzo_KkYeg4-2bwWpYzWg.png)[https://www.exodus.io](https://www.exodus.io/)
 
-![Image for post](https://miro.medium.com/max/2000/0*jpIobZRUSfWMx_f5.png)[https://trustwallet.com](https://trustwallet.com/)![Image for post](https://miro.medium.com/max/2400/0*6x-H_5ZxTI9A-e-y.jpg)[https://www.coinomi.com](https://www.coinomi.com/)![Image for post](https://miro.medium.com/max/1300/1*8Izzo_KkYeg4-2bwWpYzWg.png)[https://www.exodus.io](https://www.exodus.io/)![Image for post](https://miro.medium.com/max/2800/1*j969GQwPMOEt8wDF7zyhQg.png)[https://myetherwallet.com](https://myetherwallet.com/)![Image for post](https://miro.medium.com/max/3600/1*aro4VA8zgyDHUOKcTLIptw.png)[https://trezor.io](https://trezor.io/)![Image for post](https://miro.medium.com/max/1500/0*ius5cl33SZiv5k5k.jpg)[https://ledger.com](https://shop.ledger.com/pages/ledger-nano-x?r=12c9c69a7fe8)![Image for post](https://miro.medium.com/max/920/1*QCGMPdOmYKsprPMWu7gK4w.png)[https://www.flashcoin.io](https://www.flashcoin.io/)![Image for post](https://miro.medium.com/max/1008/1*1oGEDrywNAe-9-kXxyG0dg.png)[https://arkane.network/](https://arkane.network/)![Image for post](https://miro.medium.com/max/2560/1*rJXao6fhzdCh3qmo0uhaFA.jpeg)[https://sugi.io/](https://sugi.io/?rfsn=3751017.2d59ff\&utm_source=refersion\&utm_medium=affiliate\&utm_campaign=3751017.2d59ff)
+![Image for post](https://miro.medium.com/max/2800/1*j969GQwPMOEt8wDF7zyhQg.png)[https://myetherwallet.com](https://myetherwallet.com/)
+
+![Image for post](https://miro.medium.com/max/3600/1*aro4VA8zgyDHUOKcTLIptw.png)[https://trezor.io](https://trezor.io/)
+
+![Image for post](https://miro.medium.com/max/1500/0*ius5cl33SZiv5k5k.jpg)[https://ledger.com](https://shop.ledger.com/pages/ledger-nano-x?r=12c9c69a7fe8)
+
+![Image for post](<../../.gitbook/assets/image (1).png>)   [https://sugi.io/](https://sugi.io/)
+
+
+
+![Image for post](../../.gitbook/assets/image.png)   [https://www.flashcoin.io/](https://www.flashcoin.io/)
+
+![Image for post](<../../.gitbook/assets/image (2).png>)[https://arkane.network/](https://arkane.network/)
 
 In order to add your PRE to your wallet, you’ll need to add an Ethereum token.
 
