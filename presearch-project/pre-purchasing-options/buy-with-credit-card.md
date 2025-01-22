@@ -12,7 +12,7 @@ If you're a crypto pro, and already have your stack of Sats or Vitalik bucks, he
 
 There are many different wallets that you can use to buy PRE with a credit card. The two main ones are [Metamask](https://metamask.io/) & [My](https://www.myetherwallet.com/)[EtherWallet](https://www.myetherwallet.com/)&#x20;
 
-If you've never set up a wallet before, watch a video for how to setup [Metamask on Desktop](https://www.youtube.com/watch?v=Af\_lQ1zUnoM), or [MyEtherWallet](https://www.youtube.com/watch?v=4nnhPXTk3mo) on mobile. You will be able to purchase with a credit card on either, and we will walk you through the steps on both.
+If you've never set up a wallet before, watch a video for how to setup [Metamask on Desktop](https://www.youtube.com/watch?v=Af_lQ1zUnoM), or [MyEtherWallet](https://www.youtube.com/watch?v=4nnhPXTk3mo) on mobile. You will be able to purchase with a credit card on either, and we will walk you through the steps on both.
 
 ## Metamask
 
@@ -26,23 +26,17 @@ There are a few different options for purchasing - Coinbase Pay, Transak & Moonp
 
 #### Select the amount you'd like to purchase and select continue.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.04.34 PM.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.04.34 PM.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Moonpay will then ask you for your email and to pass in the code for your email
 
-<div>
+<div align="left"><figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.04.44 PM.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.04.44 PM.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.05.00 PM (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Moonpay will then take you through their KYC process, where you'll put in your name, date of birth and address. After this page, you'll end up at the credit card input screen, like below.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.06.25 PM.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.06.25 PM.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Click continue and purchase your ETH! Your ETH will show up in your wallet, now it's time to swap it for PRE!
 
@@ -68,33 +62,33 @@ If you'd like to use your PRE for advertising or to stake on nodes, all you have
 
 After you've downloaded MyEtherWallet and created your wallet (and of course securely stored your private key), open the app and head to the swap section and click by Ether. There will be a popup menu and we'll purchase through Moonpay. If you've already created an account, this will be quick process. If you haven't, you'll have to fill out Moonpay's KYC process, which takes a few minutes. We'll walk you through the process below.
 
-![](../../.gitbook/assets/RPReplay\_Final1677279677.gif)
+![](../../.gitbook/assets/RPReplay_Final1677279677.gif)
 
 Open Moonpay and type in your email address. It will ask for a verification, open your email and submit the verification code.&#x20;
 
 Moonpay has an extensive KYC process, but generally takes less than a few minutes to complete the forms and for Moonpay to verify you. Make sure to fill out all the information that Moonpay asks for. Once you've submitted everything, you'll get a screen like the below.
 
-&#x20;![](../../.gitbook/assets/IMG\_0865.PNG)
+&#x20;![](../../.gitbook/assets/IMG_0865.PNG)
 
 #### After you've been verified by Moonpay, you will be directed  to the purchase page.&#x20;
 
-![](../../.gitbook/assets/IMG\_0866.PNG)![](../../.gitbook/assets/IMG\_0867.PNG)
+![](../../.gitbook/assets/IMG_0866.PNG)![](../../.gitbook/assets/IMG_0867.PNG)
 
 #### The easiest option for here is apple pay, but if yuo click on the Apply pay button, you will be able to add a credit card manually. Click "Buy with Apply Pay" and your transaction will be submitted!&#x20;
 
-![](../../.gitbook/assets/IMG\_0869.PNG)
+![](../../.gitbook/assets/IMG_0869.PNG)
 
 #### Now that you have some ETH in your wallet, let's swap if for PRE!
 
-#### First things first, head to the swap section in MyEtherWallet and select "Swap Tokens"![](../../.gitbook/assets/IMG\_0877.PNG)
+#### First things first, head to the swap section in MyEtherWallet and select "Swap Tokens"![](../../.gitbook/assets/IMG_0877.PNG)
 
 #### Select the amount of ETH you'd like to convert to PRE and click "Preview swap". Note, that if you'd like to use your PRE for keyword staking or node staking, you'll need ETH to deposit PRE to the platform.
 
-![](../../.gitbook/assets/IMG\_0874.jpg)
+![](../../.gitbook/assets/IMG_0874.jpg)
 
 #### Select the option you'd like for swapping PRE and then click "Proceed with Swap"
 
-![](../../.gitbook/assets/IMG\_0876.PNG)
+![](../../.gitbook/assets/IMG_0876.PNG)
 
 ### **AMAZING - you have now purchased PRE**
 
