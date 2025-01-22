@@ -80,7 +80,11 @@ Moonpay has an extensive KYC process, but generally takes less than a few minute
 
 #### Now that you have some ETH in your wallet, let's swap if for PRE!
 
-#### First things first, head to the swap section in MyEtherWallet and select "Swap Tokens"![](../../.gitbook/assets/IMG_0877.PNG)
+#### First things first, head to the swap section in MyEtherWallet and select "Swap Tokens"
+
+
+
+![](../../.gitbook/assets/IMG_0877.PNG)
 
 #### Select the amount of ETH you'd like to convert to PRE and click "Preview swap". Note, that if you'd like to use your PRE for keyword staking or node staking, you'll need ETH to deposit PRE to the platform.
 
