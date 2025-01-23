@@ -46,6 +46,7 @@
   * [How to Change Password](presearch-engine/faq/how-to-change-password.md)
   * [How to Update profile](presearch-engine/faq/how-to-update-profile.md)
 * [🔎 MetaSearch](presearch-engine/metasearch.md)
+* [NSFW Spicy Mode](presearch-engine/nsfw-spicy-mode.md)
 
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
