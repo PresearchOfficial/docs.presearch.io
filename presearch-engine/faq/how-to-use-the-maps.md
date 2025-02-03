@@ -6,7 +6,7 @@ description: 🚀 Introducing Presearch Maps! 🗺️
 
 We’re excited to bring you Presearch Maps, powered by a new partnership with Apple! 🌍🔍 Enjoy private, fast, and user-first mapping—without compromising your data.
 
-To trigger the maps, input the word “map”, "location", "address", "directions", "direction", "route" in the search bar followed by location or Country. E.g “America Map”, "London Location".
+To activate maps, enter the location or country in the search bar followed by the words "map", "location", "address", "directions", "direction", "route". For example, "America Map", "London Location".
 
 Search smarter, explore freely. Try Presearch Maps today!&#x20;
 
