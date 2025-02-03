@@ -35,6 +35,7 @@
 * [⭐ What is Presearch Engine ?](presearch-engine/what-is-presearch-engine.md)
 * [❓ Presearch Engine FAQ](presearch-engine/faq/README.md)
   * [Am I tracked when I use Presearch?](presearch-engine/faq/am-i-tracked-when-i-use-presearch.md)
+  * [How to use the Maps](presearch-engine/faq/how-to-use-the-maps.md)
   * [How to Change the Color of the Search Engine](presearch-engine/faq/colors.md)
   * [How to use the Testnet/Presearch engine](presearch-engine/faq/default-providers.md)
   * [How to set Presearch as the Default Search Engine](presearch-engine/faq/how-to-set-presearch-as-the-default-search-engine.md)
