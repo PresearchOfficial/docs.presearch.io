@@ -51,8 +51,8 @@
 
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
-* [⭐ What is PreGPT AI ?](pregpt/what-is-pregpt.md)
-* [🤖 How to use PreGPT](pregpt/how-to-use-pregpt.md)
+* [⭐ What is PreGPT 2.0 ?](pregpt/what-is-pregpt.md)
+* [🤖 How to use PreGPT 2.0](pregpt/how-to-use-pregpt-2.0.md)
 * [❓ PreGPT FAQ](pregpt/faq/README.md)
   * [General usage](pregpt/faq/general-usage.md)
   * [Subscription](pregpt/faq/subscription.md)

@@ -6,7 +6,7 @@ description: Future work and improvements topics
 
 ## What are the plans for future updates ?
 
-We're committed to continuously improving PreGPT, including UI enhancements and new features as outlined in our roadmap. See next question.
+We're committed to continuously improving PreGPT 2.0, including UI enhancements and new features as outlined in our roadmap. See next question.
 
 ## Is this integrated with Presearch ?
 

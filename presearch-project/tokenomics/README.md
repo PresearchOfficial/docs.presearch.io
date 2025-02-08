@@ -20,7 +20,7 @@ description: About Presearch token - PRE
 * Basescan ([link](https://basescan.org/token/0x3816dd4bd44c8830c2fa020a5605bac72fa3de7a))
 {% endhint %}
 
-PRE is a utility and reward token of Presearch platform. PRE token has a technical max supply set to 1 billion tokens. Current supply is set to 500 million and contract allows minting and burning of tokens.
+PRE is a utility and reward token of Presearch platform. PRE token has a technical max supply set to 1 billion tokens. Current supply is set to 800 million and contract allows minting and burning of tokens.
 
 ## **The main use cases**
 

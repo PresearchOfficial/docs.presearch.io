@@ -4,13 +4,13 @@ description: General usage frequently asked topics
 
 # General usage
 
-## What can I ask PreGPT ?
+## What can I ask PreGPT 2.0?
 
-Feel free to ask PreGPT anything - it's designed to handle a wide range of queries.
+Feel free to ask PreGPT 2.0 anything - it's designed to handle a wide range of queries.
 
 ## What are the user eligibility requirements?
 
-Anyone who registers on Presearch.com and subscribes and pays can access PreGPT.
+Anyone who registers on Presearch.com and subscribes and pays can access PreGPT 2.0.
 
 ## Can PreGPT store my chats for reference later ?
 
@@ -18,7 +18,7 @@ To prioritize user privacy, we've currently disabled the storage of all chats. H
 
 ## What languages are Supported ?
 
-The current LLM model primarily supports English, with limited capabilities in other languages. We're working to expand linguistic diversity.
+Current LLMs are able to answer in major world's languages.
 
 ## What are the chat input and output limits ?
 
@@ -32,7 +32,7 @@ Yes, you can input Excel tables for analysis and summarization.  Also ask Chatti
 
 Image analysis is on our roadmap but not yet available.
 
-## Can I customize PreGPT ?
+## Can I customize PreGPT 2.0?
 
 Yes, you can customize PreGPT's behavior and tone to some extent by clicking the gear icon when starting a new chat. Where it says system prompt, type in a set of instructions or context that you'd like the AI to follow. Hit enter of simply wait and the system prompt will be guiding your chats going forward by default. This can include specifying a particular tone, such as formal, casual, or humorous, or directing the AI to adopt a certain role, like a tutor, advisor, or storyteller. This way, you can tailor the conversation to better suit your needs or preferences.
 
