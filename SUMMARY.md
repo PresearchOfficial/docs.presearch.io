@@ -27,7 +27,6 @@
   * [How can I help promoting Presearch?](presearch-project/presearch-project-faq/how-can-i-help-promoting-presearch.md)
   * [How can I contact the support team?](presearch-project/presearch-project-faq/how-can-i-contact-the-support-team.md)
   * [Who do I contact for marketing / promotional offers?](presearch-project/presearch-project-faq/who-do-i-contact-for-marketing-promotional-offers.md)
-  * [Presearch Roadmap](presearch-project/presearch-project-faq/presearch-roadmap.md)
   * [Presearch vision paper](presearch-project/presearch-project-faq/presearch-vision-paper.md)
 
 ## Presearch Engine
