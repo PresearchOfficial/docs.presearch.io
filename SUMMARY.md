@@ -35,7 +35,7 @@
 * [⭐ What is Presearch Engine ?](presearch-engine/what-is-presearch-engine.md)
 * [❓ Presearch Engine FAQ](presearch-engine/faq/README.md)
   * [How to set Presearch as the Default Search Engine on Desktop](presearch-engine/faq/how-to-set-presearch-as-the-default-search-engine.md)
-  * [How to set Presearch as Your Default Search Engine on the Chrome app on iOS](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-on-ios.md)
+  * [How to Set Presearch as Your Default Search Engine on the Chrome App in iOS](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-ios.md)
   * [How to Set Presearch as Your Default Search Engine on the Chrome App in Android](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md)
   * [Am I tracked when I use Presearch?](presearch-engine/faq/am-i-tracked-when-i-use-presearch.md)
   * [How to use the Maps](presearch-engine/faq/how-to-use-the-maps.md)
