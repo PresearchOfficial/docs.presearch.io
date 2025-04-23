@@ -1,6 +1,6 @@
-# How to set Presearch as the Default Search Engine
+# How to set Presearch as the Default Search Engine on Desktop
 
-You can easily set up Presearch as your default search engine on mobile or desktop.&#x20;
+You can easily set up Presearch as your default search engine on desktop.&#x20;
 
 The two easiest ways to set it up on your desktop are:
 
@@ -18,17 +18,7 @@ The two easiest ways to set it up on your desktop are:
 
 That’s it! You’re all set to now use Presearch as your default search engine on your desktop.
 
-\
-To set Presearch as the default search engine on mobile:
 
-* You can download the Presearch Privacy Browser from [here](https://account.presearch.com/apps)
-
-If you have the option, you can also try manually&#x20;
-
-* **Manually**\
-  \- Go to your browser settings and navigate to the search engine tab\
-  \- Add ‘other search engines’ and fill out the following details:\
-  Name: Presearch, URL: [https://presearch.com/search?q=%s](https://presearch.com/search?q=%s)
 
 
 
