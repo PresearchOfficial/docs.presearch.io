@@ -16,6 +16,8 @@ Presearch is a decentralized search engine powered by the community. Search priv
 
 ## How can I get started?
 
+{% embed url="https://youtu.be/FSSu5h2liuM" %}
+
 Head to our [website](https://presearch.com/) & start searching! If you're interested in learning more advanced things like Keyword Staking, Search Staking & running a node in the network, then you've come to the right place. Click either option below to get started:
 
 Let's set up a node in the [network](https://network.presearch.com):
