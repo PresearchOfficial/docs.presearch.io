@@ -14,6 +14,8 @@ We're excited that you've joined the Presearch fam! 😀💃🏽💪🏽
 
 Presearch is a decentralized search engine powered by the community. Search privately, receive better results and get rewarded with the Presearch decentralized search engine, powered by blockchain technology.
 
+{% embed url="https://youtu.be/plb6_g9tOng?si=f8MHZNh0TA0lgrZm" %}
+
 ## How can I get started?
 
 {% embed url="https://youtu.be/FSSu5h2liuM" %}
