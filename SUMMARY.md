@@ -102,7 +102,7 @@
 
 * [⭐ What is Keyword Staking?](keyword-staking/keyword-staking.md)
 * [🤝 Strategy for Staking PRE](keyword-staking/strategy-for-staking-pre.md)
-* [📦 Ads Pricing - How much does it cost to advertise on Presearch ? | Presearch Docs](keyword-staking/ads-pricing.md)
+* [📦 Ads Pricing - How much does it cost to advertise on Presearch?](keyword-staking/ads-pricing.md)
 * [❓ Keywords FAQ](faq/keywords/README.md)
   * [How can I see keywords traffic ?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
   * [How to report bogus/abusive ADs from Keyword staking ?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)
