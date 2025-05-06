@@ -32,7 +32,7 @@
 
 ## Presearch Engine
 
-* [⭐ What is Presearch Engine ?](presearch-engine/what-is-presearch-engine.md)
+* [⭐ What is Presearch Engine?](presearch-engine/what-is-presearch-engine.md)
 * [❓ Presearch Engine FAQ](presearch-engine/faq/README.md)
   * [How to set Presearch as the Default Search Engine on Desktop](presearch-engine/faq/how-to-set-presearch-as-the-default-search-engine.md)
   * [How to Set Presearch as Your Default Search Engine on the Chrome App in iOS](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-ios.md)
@@ -53,7 +53,7 @@
 
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
-* [⭐ What is PreGPT 2.0 ?](pregpt/what-is-pregpt.md)
+* [⭐ What is PreGPT 2.0?](pregpt/what-is-pregpt.md)
 * [🤖 How to use PreGPT 2.0](pregpt/how-to-use-pregpt-2.0.md)
 * [❓ PreGPT FAQ](pregpt/faq/README.md)
   * [General usage](pregpt/faq/general-usage.md)
@@ -93,9 +93,9 @@
 * [❓ Nodes FAQ](nodes/nodes/README.md)
   * [Can I already run a Presearch node?](nodes/nodes/can-i-already-run-a-presearch-node.md)
   * [Is Docker required to run a Presarch node?](nodes/nodes/is-docker-required-to-run-a-presarch-node.md)
-  * [Is there a node network explorer or some kind of overview page ?](nodes/nodes/is-there-a-node-network-explorer-or-some-kind-of-overview-page.md)
-  * [Will there be IPv6 support for Presearch nodes ?](nodes/nodes/will-there-be-ipv6-support-for-presearch-nodes.md)
-  * [Can I run Presearch node besides Flux node ?](nodes/nodes/can-i-run-presearch-node-besides-flux-node.md)
+  * [Is there a node network explorer or some kind of overview page?](nodes/nodes/is-there-a-node-network-explorer-or-some-kind-of-overview-page.md)
+  * [Will there be IPv6 support for Presearch nodes?](nodes/nodes/will-there-be-ipv6-support-for-presearch-nodes.md)
+  * [Can I run Presearch node besides Flux node?](nodes/nodes/can-i-run-presearch-node-besides-flux-node.md)
   * [IOS application to view node statistics](nodes/nodes/ios-application-to-view-node-statistics.md)
 
 ## Keyword Staking
@@ -104,16 +104,16 @@
 * [🤝 Strategy for Staking PRE](keyword-staking/strategy-for-staking-pre.md)
 * [📦 Ads Pricing - How much does it cost to advertise on Presearch?](keyword-staking/ads-pricing.md)
 * [❓ Keywords FAQ](faq/keywords/README.md)
-  * [How can I see keywords traffic ?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
-  * [How to report bogus/abusive ADs from Keyword staking ?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)
+  * [How can I see keywords traffic?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
+  * [How to report bogus/abusive ADs from Keyword staking?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)
 
 ## Search Staking and Usage Rewards
 
-* [⭐ What are Usage rewards ?](search-staking-and-usage-rewards/what-are-usage-rewards/README.md)
+* [⭐ What are Usage rewards?](search-staking-and-usage-rewards/what-are-usage-rewards/README.md)
   * [How do PRE rewards work](search-staking-and-usage-rewards/what-are-usage-rewards/how-do-pre-rewards-work.md)
   * [How to claim search rewards](search-staking-and-usage-rewards/what-are-usage-rewards/how-to-claim-search-rewards.md)
 * [❓ Search Staking FAQ](search-staking-and-usage-rewards/search-staking-faq/README.md)
-  * [How to use Search staking ?](search-staking-and-usage-rewards/search-staking-faq/how-to-use-search-staking.md)
+  * [How to use Search staking?](search-staking-and-usage-rewards/search-staking-faq/how-to-use-search-staking.md)
   * [How to use the calculator for Search Stake](search-staking-and-usage-rewards/search-staking-faq/how-to-use-the-calculator-for-search-stake.md)
 
 ## AD-FREE SEARCH FEATURE
@@ -133,7 +133,6 @@
 
 ## Community
 
-* [👥 Presearch Community Forum](community/presearch-community-forum.md)
 * [🛠️ Community Projects](community/community-projects.md)
 * [🧑‍🏫 Community Tutorials](community/community-tutorials/README.md)
   * [Intense Investor](community/community-tutorials/intense-investor.md)

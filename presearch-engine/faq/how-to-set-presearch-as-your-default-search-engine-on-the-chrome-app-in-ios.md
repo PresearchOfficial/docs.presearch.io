@@ -4,11 +4,11 @@ description: >-
   in iOS by following these steps:
 ---
 
-# How to set Presearch as Your Default Search Engine on the Chrome app on iOS
+# How to Set Presearch as Your Default Search Engine on the Chrome App in iOS
 
 1. Open the Google Chrome app on your iPhone.
 2. In the address bar, go to [presearch.com](http://presearch.com/).
-3. Make a 2-3 searches on Presearch (this allows Chrome recognize it as a search engine option).
+3. Make 2-3 searches on Presearch (this allows Chrome recognize it as a search engine option).
 4. Tap the three dots in the bottom-right corner to open the Chrome menu.
 5. Go to Settings → Search Engine.
 6. You should now see Presearch listed as an option. Select it to set it as your default search engine.
