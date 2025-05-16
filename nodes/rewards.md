@@ -100,7 +100,7 @@ Dive into the mechanics of node rewards and discover how, as market conditions a
 
 **Please be advised that, in accordance with the latest changes to node rewards, they will be set as follows:**
 
-**Nodes**\
+**Node Rewards**\
 1000 = 30% APY\
 2000 = 20% APY\
 3000 = 15% APY\
