@@ -1,0 +1,3 @@
+# Why doesn’t my ad show when someone searches a longer phrase that includes my staked  keyword?
+
+&#x20;If you were to stake the phrase "actually private", your ad will only appear if a user searches those exact&#x20;two words in that exact order and at the beginning of their search. So, if someone searches "a search&#x20;engine that is actually private", your ad won’t show because "actually private" is in the middle, not the&#x20;start. Presearch only triggers ads when the first word of the search matches your staked keyword or&#x20;phrase. To reach more searches, try also staking related short-tail words like "private", "search engine",&#x20;or the full long-tail phrase users are more likely to type.

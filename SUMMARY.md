@@ -105,6 +105,16 @@
 * [❓ Keywords FAQ](faq/keywords/README.md)
   * [How can I see keywords traffic?](keyword-staking/keywords/how-can-i-see-which-keywords-have-traffic.md)
   * [How to report bogus/abusive ADs from Keyword staking?](keyword-staking/keywords/how-to-report-bogus-abusive-ads-from-keyword-staking.md)
+  * [How can I choose the best keywords to stake?](keyword-staking/keywords/how-can-i-choose-the-best-keywords-to-stake.md)
+  * [What’s the difference between long-tail and short-tail keyword staking?](keyword-staking/keywords/whats-the-difference-between-long-tail-and-short-tail-keyword-staking.md)
+  * [How does keyword staking priority work?](keyword-staking/keywords/how-does-keyword-staking-priority-work.md)
+  * [Should I stake short-tail or long-tail keywords?](keyword-staking/keywords/should-i-stake-short-tail-or-long-tail-keywords.md)
+  * [How long can my ad be?](keyword-staking/keywords/how-long-can-my-ad-be.md)
+  * [Should I stake many keywords or just a few?](keyword-staking/keywords/should-i-stake-many-keywords-or-just-a-few.md)
+  * [Why am I not seeing clicks?](keyword-staking/keywords/why-am-i-not-seeing-clicks.md)
+  * [Why doesn’t my ad show when someone searches a longer phrase that includes my staked  keyword?](keyword-staking/keywords/why-doesnt-my-ad-show-when-someone-searches-a-longer-phrase-that-includes-my-staked-keyword.md)
+  * [How do I export keyword stats?](keyword-staking/keywords/how-do-i-export-keyword-stats.md)
+  * [Are there limitations on what I can advertise?](keyword-staking/keywords/are-there-limitations-on-what-i-can-advertise.md)
 
 ## Search Staking and Usage Rewards
 

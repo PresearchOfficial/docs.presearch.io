@@ -16,13 +16,13 @@ To help you store your PRE in your own outside wallet, we’ve compiled an ever-
 
 ![Image for post](https://miro.medium.com/max/1500/0*ius5cl33SZiv5k5k.jpg)[https://ledger.com](https://shop.ledger.com/pages/ledger-nano-x?r=12c9c69a7fe8)
 
-![Image for post](<../../.gitbook/assets/image (1) (1) (1).png>)   [https://sugi.io/](https://sugi.io/)
+![Image for post](<../../.gitbook/assets/image (1) (1) (1) (1).png>)   [https://sugi.io/](https://sugi.io/)
 
 
 
-![Image for post](<../../.gitbook/assets/image (2).png>)   [https://www.flashcoin.io/](https://www.flashcoin.io/)
+![Image for post](<../../.gitbook/assets/image (2) (1).png>)   [https://www.flashcoin.io/](https://www.flashcoin.io/)
 
-![Image for post](<../../.gitbook/assets/image (2) (1).png>)[https://arkane.network/](https://arkane.network/)
+![Image for post](<../../.gitbook/assets/image (2) (1) (1).png>)[https://arkane.network/](https://arkane.network/)
 
 In order to add your PRE to your wallet, you’ll need to add an Ethereum token.
 

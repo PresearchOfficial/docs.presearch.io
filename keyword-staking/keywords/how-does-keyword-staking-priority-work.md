@@ -1,0 +1,5 @@
+# How does keyword staking priority work?
+
+&#x20;Only one ad (or no ad) is shown per search, and it goes to whoever has the highest stake on a matching&#x20;keyword or phrase. Whoever stakes the most has their ad shown. If you are the highest staker and did&#x20;not check “Move to Top Subscription,” your ad appears at the bottom of the first page. If you are&#x20;the highest staker and did check the box, your ad appears in the third position of the first page. The\
+checkbox is simply moving your ad from the bottom to the third position—it does not affect whether&#x20;your ad wins or not. The largest staker always wins. The fee for “Move to Top Subscription” is\
+0.033% of your staked amount per day, which adds up to approximately 1% per month.
