@@ -109,6 +109,7 @@
   * [What’s the difference between long-tail and short-tail keyword staking?](keyword-staking/keywords/whats-the-difference-between-long-tail-and-short-tail-keyword-staking.md)
   * [How does keyword staking priority work?](keyword-staking/keywords/how-does-keyword-staking-priority-work.md)
   * [Should I stake short-tail or long-tail keywords?](keyword-staking/keywords/should-i-stake-short-tail-or-long-tail-keywords.md)
+  * [Why stake long-tail keywords?](keyword-staking/keywords/why-stake-long-tail-keywords.md)
   * [How long can my ad be?](keyword-staking/keywords/how-long-can-my-ad-be.md)
   * [Should I stake many keywords or just a few?](keyword-staking/keywords/should-i-stake-many-keywords-or-just-a-few.md)
   * [Why am I not seeing clicks?](keyword-staking/keywords/why-am-i-not-seeing-clicks.md)
