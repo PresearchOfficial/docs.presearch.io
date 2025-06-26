@@ -10,19 +10,19 @@ description: >-
 
 
 
-![Thanks to community member Aloha Todd for the Keyword Staking graphic post](https://miro.medium.com/max/3600/1\*LXFD2CMkSxjFgtVxuVLvOw.png)
+![Thanks to community member Aloha Todd for the Keyword Staking graphic post](https://miro.medium.com/max/3600/1*LXFD2CMkSxjFgtVxuVLvOw.png)
 
 &#x20;We previously covered the [**challenges and opportunities**](https://medium.com/@presearch/keyword-advertising-a-100-billion-dollar-opportunity-380739dc422f) with traditional keyword ads, and this post will reveal why keyword staking is the next big advertising opportunity for enterprising online marketers and entrepreneurs.
 
 ## **How Presearch Keyword Staking ads work** <a href="#id-8f2d" id="id-8f2d"></a>
 
-![Image for post](https://miro.medium.com/max/4000/1\*KQvJhLFWAtmyr1wwKC0\_EQ.png)
+![Image for post](https://miro.medium.com/max/4000/1*KQvJhLFWAtmyr1wwKC0_EQ.png)
 
 &#x20;Keyword Staking enables token holders to commit or ‘stake’ their PRE tokens against specific words and multi-word terms.
 
 With [**Presearch Keyword Staking**](https://keywords.presearch.com/dashboard) you choose a keyword (ex. ‘Bitcoin’) and then stake PRE tokens that you’ve purchased or earned against that term. You can then create an ad that you link to the website of your choice.
 
-![Image for post](https://miro.medium.com/max/6720/1\*qH3J9efW8y4Ho7008AxqiQ.png)
+![Image for post](https://miro.medium.com/max/6720/1*qH3J9efW8y4Ho7008AxqiQ.png)
 
 ### Presearch Keyword Staking dashboard
 
@@ -54,4 +54,10 @@ It’s a fairly simple system to start with, and because of that, it provides ma
 
 ## Next steps to start staking <a href="#id-9757" id="id-9757"></a>
 
-&#x20;To learn more about specific staking techniques, we’ve prepared a [**staking strategy post**](https://medium.com/@presearch/your-staking-strategy-242aca2f6e8d) that will help entrepreneurs and [**affiliates**](https://medium.com/@presearch/the-presearch-affiliate-opportunity-7a20d18b6b1c) identify and take advantage of opportunities with Presearch Keyword Staking.\
+&#x20;To learn more about specific staking techniques, we’ve prepared a [**staking strategy post**](https://medium.com/@presearch/your-staking-strategy-242aca2f6e8d) that will help entrepreneurs and [**affiliates**](https://medium.com/@presearch/the-presearch-affiliate-opportunity-7a20d18b6b1c) identify and take advantage of opportunities with Presearch Keyword Staking.
+
+### &#x20;**Presearch Keyword Staking | Step-By-Step Tutorial**
+
+{% embed url="https://www.youtube.com/watch?v=r0saSVOSdo0" %}
+
+\
