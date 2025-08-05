@@ -1,5 +1,6 @@
 ---
 description: General questions around searching & Presearch!
+coverY: 0
 ---
 
 # ❓ Presearch Engine FAQ
