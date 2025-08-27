@@ -2,7 +2,7 @@
 description: Presearch News
 ---
 
-# 🗞 Presearch News
+# 🗞️ Presearch News
 
 You can find all the news of the project in the different news channels of Presearch.
 
@@ -10,6 +10,6 @@ You can find all the news of the project in the different news channels of Prese
 
 {% embed url="https://t.me/presearchnews" %}
 
-{% embed url="https://discord.gg/Rjf4mJK6" %}
-
 {% embed url="https://www.reddit.com/r/Presearch/" %}
+
+{% embed url="https://discord.gg/bUnGFHU4xG" %}
