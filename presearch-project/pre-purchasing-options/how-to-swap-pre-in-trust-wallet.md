@@ -24,8 +24,8 @@ description: How Does Swapping PRE in Trust Wallet Work?
 
 {% embed url="https://trustwallet.com/_next/image?url=https%3A%2F%2Fstrapi-cdn.trustwallet.com%2Fhow_to_swap_tokens_1_93f849e187.gif&w=828&q=75" %}
 
-For more information about the PRE swap procedure in Trustwallet you can visit its official blog at the following link: [https://trustwallet.com/es/blog/how-to-swap-tokens-in-trust-wallet](https://trustwallet.com/es/blog/how-to-swap-tokens-in-trust-wallet)
+For more information about the PRE swap procedure in Trustwallet you can visit its official blog at the following link:&#x20;
 
-
+{% embed url="https://trustwallet.com/blog/guides/how-to-swap-tokens-in-trust-wallet" %}
 
 \
