@@ -14,7 +14,7 @@ If you're looking for how to claim your search rewards token, click the link to 
 [how-to-claim-search-rewards.md](../../search-staking-and-usage-rewards/what-are-usage-rewards/how-to-claim-search-rewards.md)
 {% endcontent-ref %}
 
-## Web3 Withdrawl Process
+## Web3 Withdraw Process
 
 First things first, head to [https://account.presearch.com/withdrawals](https://account.presearch.com/withdrawals) and select the amount of tokens you want to withdraw, the wallet address you want to send the funds to, the network you want to withdraw ETH to, or BASE and the 2FA code. When everything looks good, click withdraw. Make sure the wallet address is a Metamask wallet or some other form of wallet where you can sign transactions. Withdrawing directly to the exchanges will not work. Make sure you have enough ETH in the wallet you send your PRE to depending on the chosen network ETH or BASE. To estimate costs, check current [network congestion & gas costs Eth](https://etherscan.io/gastracker), [network congestion base](https://tokentool.bitbond.com/gas-price/base).
 
@@ -32,11 +32,11 @@ If you agree with the withdrawal terms and conditions, click continue.
 
 ### Once you click confirm, an email will be sent to you.&#x20;
 
-Head over to your email to confirm the withdrawl. This is to protect you in case your account is compromised at any time, so that tokens are not able to be withdrawn.
+Head over to your email to confirm the withdraw. This is to protect you in case your account is compromised at any time, so that tokens are not able to be withdrawn.
 
 <figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
-### **Head to your email and click "Confirm My Withdrawl"**
+### **Head to your email and click "Confirm My Withdrawal"**
 
 ![](<../../.gitbook/assets/Screen Shot 2022-08-01 at 12.32.54 PM.png>)
 
