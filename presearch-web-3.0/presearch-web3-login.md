@@ -11,7 +11,7 @@ icon: right-to-bracket
 1. Go to [presearch.com](https://presearch.com/)
 2. Click on the hamburger menu in the top right corner of the page.
 
-<figure><img src="../.gitbook/assets/image (178).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on sing in Sing In | Create Account / Sign into Your Account.
 
