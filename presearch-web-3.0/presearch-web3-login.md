@@ -3,6 +3,7 @@ description: >-
   Learn how to log in to Presearch using Web3 in just a few simple steps. This
   quick walkthrough will guide you through connecting your wallet and accessing
   Web3 features on your Presearch account.
+icon: right-to-bracket
 ---
 
 # Presearch Web3 Login
