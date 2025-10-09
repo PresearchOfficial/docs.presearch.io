@@ -21,9 +21,7 @@ icon: money-simple-from-bracket
 
 <figure><img src="../.gitbook/assets/deposit1.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-<figure><img src="../.gitbook/assets/fot1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mono.jpg" alt=""><figcaption></figcaption></figure>
 
 5. Open your external wallet, select PRE, send, and enter your presearch account address, then confirm the transaction.
 
