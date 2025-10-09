@@ -3,6 +3,7 @@ description: >-
   In this tutorial, we’ll guide you step-by-step through the process of
   depositing PRE tokens into your Presearch platform wallet balance. You’ll
   learn how to access your Web3 dashboard, create a secure
+icon: money-simple-from-bracket
 ---
 
 # How to Deposit Tokens onto the Presearch Platform
