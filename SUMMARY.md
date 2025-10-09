@@ -54,6 +54,10 @@
 * [  NSFW Spicy Mode](presearch-engine/nsfw-spicy-mode.md)
 * [⚙️ Presearch UI/UX updates](presearch-engine/presearch-ui-ux-updates.md)
 
+## Presearch Web 3.0
+
+* [Presearch Web3 Login](presearch-web-3.0/presearch-web3-login.md)
+
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
 * [⭐ What is PreGPT 2.0?](pregpt/what-is-pregpt.md)
