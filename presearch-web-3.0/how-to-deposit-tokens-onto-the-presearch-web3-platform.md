@@ -6,9 +6,9 @@ description: >-
 icon: money-simple-from-bracket
 ---
 
-# How to Deposit Tokens onto the Presearch Platform
+# How to Deposit Tokens onto the Presearch Web3 Platform
 
-1. Log in to your Presearch account here: [Presearch Web3 Login](presearch-web3-login.md)
+1. Log in to your [presearch account](https://presearch.com/), you follow the tutorial here: [Presearch Web3 Login](presearch-web3-login.md)
 2. Enter your account menu: [My Account](https://account.presearch.com/) and click on Web3 dashboard.
 
 <figure><img src="../.gitbook/assets/sopo1 (1).jpg" alt=""><figcaption></figcaption></figure>
