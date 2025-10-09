@@ -57,7 +57,7 @@
 ## Presearch Web 3.0
 
 * [Presearch Web3 Login](presearch-web-3.0/presearch-web3-login.md)
-* [How to Deposit Tokens onto the Presearch Platform](presearch-web-3.0/how-to-deposit-tokens-onto-the-presearch-platform.md)
+* [How to Deposit Tokens onto the Presearch Web3 Platform](presearch-web-3.0/how-to-deposit-tokens-onto-the-presearch-web3-platform.md)
 
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
