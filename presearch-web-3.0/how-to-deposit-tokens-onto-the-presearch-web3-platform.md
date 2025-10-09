@@ -25,9 +25,9 @@ icon: money-simple-from-bracket
 
 5. Open your external wallet, select PRE, send, and enter your presearch account address, then confirm the transaction.
 
-<figure><img src="../.gitbook/assets/continuar1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flecha1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/confirmar1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lapiz1.jpg" alt=""><figcaption></figcaption></figure>
 
 6. You will be able to see your deposit within the platform wallet and you will also be able to monitor it in the deposit history.&#x20;
 
@@ -36,8 +36,6 @@ icon: money-simple-from-bracket
 ### Youtube link <a href="#youtube-link" id="youtube-link"></a>
 
 Unlock Your Presearch Rewards | How to Deposit Tokens onto the Presearch Platform
-
-
 
 {% embed url="https://www.youtube.com/watch?v=Fn0ci1jiDR0" %}
 
