@@ -41,7 +41,7 @@ icon: coin-vertical
 
 ## Unstake Search Stake
 
-1. On your web3 dashboard Click Visit Dashboard within  Search Stake.
+1. On your web3 dashboard Click on Visit Dashboard within  Search Stake.
 
 <figure><img src="../.gitbook/assets/silva1.jpg" alt=""><figcaption></figcaption></figure>
 
