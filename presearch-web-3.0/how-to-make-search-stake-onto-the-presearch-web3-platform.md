@@ -13,7 +13,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-3. Click Visit Dashboard within Search Stake.
+3. Click on Visit Dashboard within Search Stake.
 
 <figure><img src="../.gitbook/assets/busqueda2.jpg" alt=""><figcaption></figcaption></figure>
 
