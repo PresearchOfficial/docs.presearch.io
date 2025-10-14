@@ -12,7 +12,7 @@ icon: money-bill-transfer
 
 3. Click on Visit Dashboard within the Platform Wallet Balance.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/popo1.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click on withdraw.
 
