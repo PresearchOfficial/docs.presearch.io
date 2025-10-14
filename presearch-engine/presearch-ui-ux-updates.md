@@ -1,4 +1,4 @@
-# ⚙️ Presearch UI/UX updates.
+# ⚙️ Presearch UI/UX updates
 
 Hello Presearchers,
 
@@ -24,4 +24,4 @@ Updates to presearch.io:\
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
