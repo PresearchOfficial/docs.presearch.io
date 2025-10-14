@@ -32,6 +32,6 @@ icon: money-bill-transfer
 
 8. Once the transaction is confirmed, you will have the tokens in your wallet and you can also verify it in the transfer history.
 
-<figure><img src="../.gitbook/assets/coco1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/simple1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/fofo1.jpg" alt=""><figcaption></figcaption></figure>
