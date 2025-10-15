@@ -17,10 +17,6 @@ coverY: 0
 [how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md](how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md)
 {% endcontent-ref %}
 
-{% content-ref url="am-i-tracked-when-i-use-presearch.md" %}
-[am-i-tracked-when-i-use-presearch.md](am-i-tracked-when-i-use-presearch.md)
-{% endcontent-ref %}
-
 {% content-ref url="how-to-use-the-maps.md" %}
 [how-to-use-the-maps.md](how-to-use-the-maps.md)
 {% endcontent-ref %}

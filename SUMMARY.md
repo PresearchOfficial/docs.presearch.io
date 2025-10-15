@@ -38,6 +38,7 @@
   * [How to set Presearch as the Default Search Engine on Desktop](presearch-engine/faq/how-to-set-presearch-as-the-default-search-engine.md)
   * [How to Set Presearch as Your Default Search Engine on the Chrome App in iOS](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-ios.md)
   * [How to Set Presearch as Your Default Search Engine on the Chrome App in Android](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md)
+  * [How to Set Presearch as Your Default Search Engine on Safari | Alternative Search Engine Tutorial](presearch-engine/faq/how-to-set-presearch-as-your-default-search-engine-on-safari-or-alternative-search-engine-tutorial.md)
   * [Am I tracked when I use Presearch?](presearch-engine/faq/am-i-tracked-when-i-use-presearch.md)
   * [How to use the Maps](presearch-engine/faq/how-to-use-the-maps.md)
   * [How to Change the Color of the Search Engine](presearch-engine/faq/colors.md)
