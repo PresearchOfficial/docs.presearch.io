@@ -1,5 +1,4 @@
 ---
-description: General questions around searching & Presearch!
 coverY: 0
 ---
 
@@ -15,6 +14,14 @@ coverY: 0
 
 {% content-ref url="how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md" %}
 [how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md](how-to-set-presearch-as-your-default-search-engine-on-the-chrome-app-in-android.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-set-presearch-as-your-default-search-engine-on-safari-or-alternative-search-engine-tutorial.md" %}
+[how-to-set-presearch-as-your-default-search-engine-on-safari-or-alternative-search-engine-tutorial.md](how-to-set-presearch-as-your-default-search-engine-on-safari-or-alternative-search-engine-tutorial.md)
+{% endcontent-ref %}
+
+{% content-ref url="am-i-tracked-when-i-use-presearch.md" %}
+[am-i-tracked-when-i-use-presearch.md](am-i-tracked-when-i-use-presearch.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-use-the-maps.md" %}
@@ -56,3 +63,4 @@ coverY: 0
 {% content-ref url="how-to-update-profile.md" %}
 [how-to-update-profile.md](how-to-update-profile.md)
 {% endcontent-ref %}
+
