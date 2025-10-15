@@ -29,3 +29,7 @@ description: >-
 {% content-ref url="how-do-i-stake-tokens-in-the-web3-system.md" %}
 [how-do-i-stake-tokens-in-the-web3-system.md](how-do-i-stake-tokens-in-the-web3-system.md)
 {% endcontent-ref %}
+
+{% content-ref url="are-my-tokens-safe-in-presearch-web3-system.md" %}
+[are-my-tokens-safe-in-presearch-web3-system.md](are-my-tokens-safe-in-presearch-web3-system.md)
+{% endcontent-ref %}
