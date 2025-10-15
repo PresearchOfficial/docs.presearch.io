@@ -61,12 +61,13 @@
 * [How to withdraw tokens on the Presearch Web3 platform](presearch-web-3.0/how-to-withdraw-tokens-on-the-presearch-web3-platform.md)
 * [How to make Search Stake onto the Presearch Web3 Platform](presearch-web-3.0/how-to-make-search-stake-onto-the-presearch-web3-platform.md)
 * [❓ Web3 FAQ](presearch-web-3.0/faq/README.md)
-  * [1. Is it necessary to migrate to Web3?](presearch-web-3.0/faq/1.-is-it-necessary-to-migrate-to-web3.md)
-  * [2. Is there a deadline to migrate from Web2 to Web3?](presearch-web-3.0/faq/2.-is-there-a-deadline-to-migrate-from-web2-to-web3.md)
-  * [3. Which blockchain network is used for the Web3 migration?](presearch-web-3.0/faq/3.-which-blockchain-network-is-used-for-the-web3-migration.md)
-  * [4. What are the benefits of migrating to Web3?](presearch-web-3.0/faq/4.-what-are-the-benefits-of-migrating-to-web3.md)
-  * [5. What wallets can I use for migration to Web3?](presearch-web-3.0/faq/5.-what-wallets-can-i-use-for-migration-to-web3.md)
-  * [6. How do I stake tokens in the Web3 system?](presearch-web-3.0/faq/6.-how-do-i-stake-tokens-in-the-web3-system.md)
+  * [Is it necessary to migrate to Web3?](presearch-web-3.0/faq/is-it-necessary-to-migrate-to-web3.md)
+  * [Is there a deadline to migrate from Web2 to Web3?](presearch-web-3.0/faq/is-there-a-deadline-to-migrate-from-web2-to-web3.md)
+  * [Which blockchain network is used for the Web3 migration?](presearch-web-3.0/faq/which-blockchain-network-is-used-for-the-web3-migration.md)
+  * [What are the benefits of migrating to Web3?](presearch-web-3.0/faq/what-are-the-benefits-of-migrating-to-web3.md)
+  * [What wallets can I use for migration to Web3?](presearch-web-3.0/faq/what-wallets-can-i-use-for-migration-to-web3.md)
+  * [How do I stake tokens in the Web3 system?](presearch-web-3.0/faq/how-do-i-stake-tokens-in-the-web3-system.md)
+  * [Are my tokens safe in Presearch web3 system?](presearch-web-3.0/faq/are-my-tokens-safe-in-presearch-web3-system.md)
 
 ## PreGPT AI <a href="#pregpt" id="pregpt"></a>
 
