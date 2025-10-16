@@ -13,7 +13,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-3. Click on Visit Dashboard within Search Stake.
+3. Click on Visit Dashboard within Search Stake Balance.
 
 <figure><img src="../.gitbook/assets/busqueda2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ icon: coin-vertical
 
 ## Unstake Search Stake
 
-1. On your web3 dashboard Click on Visit Dashboard within  Search Stake.
+1. On your web3 dashboard Click on Visit Dashboard within  Search Stake Balance.
 
 <figure><img src="../.gitbook/assets/silva1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -61,12 +61,14 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/yeye1.jpg" alt=""><figcaption></figcaption></figure>
 
-6. You will be able to see that it has been successfully unstaken.
+6. You will be able to see that it has been successfully Unstake and you will also be able to see it in the transaction history.
 
 <figure><img src="../.gitbook/assets/yoyo1.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/lolo1 (1).jpg" alt=""><figcaption></figcaption></figure>
+
 ### Youtube link <a href="#youtube-link" id="youtube-link"></a>
 
-The More You Stake, The More You Earn | Presearch Search Staking Tutorial
+The More You Stake, The More You Earn | Presearch Search Staking Tutorial.
 
 {% embed url="https://www.youtube.com/watch?v=Cr5bCocRw2Y" %}

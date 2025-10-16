@@ -61,6 +61,7 @@
 * [How to Deposit Tokens onto the Presearch Web3 Platform](presearch-web-3.0/how-to-deposit-tokens-onto-the-presearch-web3-platform.md)
 * [How to withdraw tokens on the Presearch Web3 platform](presearch-web-3.0/how-to-withdraw-tokens-on-the-presearch-web3-platform.md)
 * [How to make Search Stake onto the Presearch Web3 Platform](presearch-web-3.0/how-to-make-search-stake-onto-the-presearch-web3-platform.md)
+* [How to make Node Stake onto the Presearch Web3 Platform](presearch-web-3.0/how-to-make-node-stake-onto-the-presearch-web3-platform.md)
 * [❓ Web3 FAQ](presearch-web-3.0/faq/README.md)
   * [Is it necessary to migrate to Web3?](presearch-web-3.0/faq/is-it-necessary-to-migrate-to-web3.md)
   * [Is there a deadline to migrate from Web2 to Web3?](presearch-web-3.0/faq/is-there-a-deadline-to-migrate-from-web2-to-web3.md)
