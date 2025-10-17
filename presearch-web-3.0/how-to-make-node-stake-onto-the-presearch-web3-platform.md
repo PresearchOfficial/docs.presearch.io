@@ -12,7 +12,7 @@ icon: circle-nodes
 
 <figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
-3. Click on Visit Dashboard within Node Stake Balance.
+3. Click on Visit Dashboard within **Node Stake Balance.**
 
 <figure><img src="../.gitbook/assets/nodo1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ icon: circle-nodes
 
 <figure><img src="../.gitbook/assets/yoyo1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-7. You will now be able to see the PRE stake on your dashboard and you will also be able to see it in Transfer History.
+7. You will now be able to see the PRE stake on your **Node Dashboard** and you will also be able to see it in **Transfer History.**
 
 <figure><img src="../.gitbook/assets/tos1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ icon: circle-nodes
 
 ## Unstake Search Stake
 
-1. On your web3 dashboard Click on Visit Dashboard within Node Stake Balance.
+1. On your web3 dashboard Click on Visit Dashboard within **Node Stake Balance.**
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ icon: circle-nodes
 
 <figure><img src="../.gitbook/assets/web1.jpg" alt=""><figcaption></figcaption></figure>
 
-5. Confirm and approve the transaction and you will have the tokens inside your external wallet.
+5. Confirm the transaction and you will have the tokens inside your external wallet.
 
 <figure><img src="../.gitbook/assets/selpoor1.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -13,7 +13,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-3. Click on Visit Dashboard within Search Stake Balance.
+3. Click on Visit Dashboard within **Search Stake Balance.**
 
 <figure><img src="../.gitbook/assets/busqueda2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/dodo1.jpg" alt=""><figcaption></figcaption></figure>
 
-7. You will now be able to see the PRE stake on your dashboard and you will also be able to see it in Transfer History.
+7. You will now be able to see the PRE stake on your **Search Staking Dashboard** and you will also be able to see it in **Transfer History.**
 
 <figure><img src="../.gitbook/assets/papa1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ icon: coin-vertical
 
 ## Unstake Search Stake
 
-1. On your web3 dashboard Click on Visit Dashboard within  Search Stake Balance.
+1. On your web3 dashboard Click on Visit Dashboard within  **Search Stake Balance.**
 
 <figure><img src="../.gitbook/assets/silva1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/lili1.jpg" alt=""><figcaption></figcaption></figure>
 
-5. Confirm and approve the transaction and you will have the tokens inside your external wallet.
+5. Confirm the transaction and you will have the tokens inside your external wallet.
 
 <figure><img src="../.gitbook/assets/yeye1.jpg" alt=""><figcaption></figcaption></figure>
 
