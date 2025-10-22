@@ -4,9 +4,9 @@ To unstake tokens on Web3, access your staking dashboard [here](https://web3.pre
 
 For the full procedure, you can check here.
 
-[Unstake Node Staking](../how-to-make-node-stake-onto-the-presearch-web3-platform.md)
+[Unstake Node Staking](../how-to-node-stake-on-presearch-web3.md)
 
-[Unstake Search Staking](../how-to-make-search-stake-onto-the-presearch-web3-platform.md)
+[Unstake Search Staking](../how-to-search-stake-on-presearch-web3.md)
 
-[Unstake Keyword Staking](../how-to-make-keywords-onto-the-presearch-web3-platform.md)
+[Unstake Keyword Staking](../how-to-keyword-stake-on-presearch-web3.md)
 
