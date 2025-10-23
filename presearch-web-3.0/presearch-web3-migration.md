@@ -49,15 +49,17 @@ icon: right-left
 
 <figure><img src="../.gitbook/assets/sisi1.jpg" alt=""><figcaption></figcaption></figure>
 
+**Note: This tutorial is applicable for many users who have no PRE balance, no stakes, and no wallet funds.**
+
 ## Youtube link
 
 Presearch Web3 Migration Tutorial | Step-by-Step Guide
 
-**Note: This tutorial is applicable for many users who have no PRE balance, no stakes, and no wallet funds.**
-
 {% embed url="https://www.youtube.com/watch?v=3FOOmCNDDEI" %}
 
-&#x20;In this other video you can see the procedure for migrating Keyword Stake, Node Stake and Search Stake, once you complete step 1 and link your wallet with Presearch Web3, proceed to step 2: **Transfer your tokens from your presearch platform balance (not any stakes) to your connected wallet**, accept the terms and conditions and confirm the transfer.
+&#x20;
+
+In this second video below you can see the procedure for migrating Keyword Stake, Node Stake and Search Stake, once you complete step 1 and link your wallet with Presearch Web3, proceed to step 2: **Transfer your tokens from your presearch platform balance (not any stakes) to your connected wallet**, accept the terms and conditions and confirm the transfer.
 
 &#x20;Then transfer each of the Stake (Keywords, Nodes, Search) which you must place your 2Fa code and sign the transaction in your wallet., now all your Pre balance is now migrated to Web3 and you will be able to see it on your [dashboard](https://web3.presearch.com/platform-wallet).
 
