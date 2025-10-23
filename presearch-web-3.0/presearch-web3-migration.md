@@ -25,7 +25,7 @@ icon: right-left
 
 <figure><img src="../.gitbook/assets/scan1.jpg" alt=""><figcaption></figcaption></figure>
 
-6. Click on your profile icon in the top right corner and return to manage.
+6. Click on your profile icon in the top right corner and return to manage Account.
 
 <figure><img src="../.gitbook/assets/lili1.jpg" alt=""><figcaption></figcaption></figure>
 
