@@ -59,7 +59,7 @@
 
 * [Presearch Web3 Migration](presearch-web-3.0/presearch-web3-migration.md)
 * [Presearch Web3 Login](presearch-web-3.0/presearch-web3-login.md)
-* [How to Deposit Tokens onto the Presearch Web3 Platform](presearch-web-3.0/how-to-deposit-tokens-onto-the-presearch-web3-platform.md)
+* [How to Deposit Tokens on the Presearch Web3 Platform](presearch-web-3.0/how-to-deposit-tokens-on-the-presearch-web3-platform.md)
 * [How to withdraw tokens on the Presearch Web3 platform](presearch-web-3.0/how-to-withdraw-tokens-on-the-presearch-web3-platform.md)
 * [How to Search Stake on Presearch Web3](presearch-web-3.0/how-to-search-stake-on-presearch-web3.md)
 * [How to Node Stake on Presearch Web3](presearch-web-3.0/how-to-node-stake-on-presearch-web3.md)
