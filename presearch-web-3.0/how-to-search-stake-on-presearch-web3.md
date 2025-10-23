@@ -6,7 +6,7 @@ description: >-
 icon: coin-vertical
 ---
 
-# How to make Search Stake onto the Presearch Web3 Platform
+# How to Search Stake on Presearch Web3
 
 1. Log in to your [presearch account](https://presearch.com/), you can follow the tutorial here: [Presearch Web3 Login](presearch-web3-login.md)
 2. Enter your account menu: [My Account](https://account.presearch.com/) and click on Web3 dashboard.
@@ -31,7 +31,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/perro1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/dodo1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dodo1 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 7. You will now be able to see the PRE stake on your **Search Staking Dashboard** and you will also be able to see it in **Transfer History.**
 
@@ -55,7 +55,7 @@ icon: coin-vertical
 
 4. Click on Unstake.
 
-<figure><img src="../.gitbook/assets/lili1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lili1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 5. Confirm the transaction and you will have the tokens inside your external wallet.
 

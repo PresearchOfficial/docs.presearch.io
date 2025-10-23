@@ -5,7 +5,7 @@ description: >-
 icon: adversal
 ---
 
-# How to make Keywords onto the Presearch Web3 Platform
+# How to Keyword Stake on Presearch Web3
 
 1. Log in to your [presearch account](https://presearch.com/), you can follow the tutorial here: [Presearch Web3 Login](presearch-web3-login.md)
 2. Enter your account menu: [My Account](https://account.presearch.com/) and click on Web3 dashboard.
@@ -26,7 +26,7 @@ icon: adversal
 
 6. Enter the requested information in the **¨Create Keyword section¨** and click Create Keyword.
 
-<figure><img src="../.gitbook/assets/dodo1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dodo1 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 7. Enter the amount of Pre staked and click Update Stake, It is worth mentioning that the minimum stake amount is 100 PRE per keyword.
 
@@ -79,7 +79,7 @@ icon: adversal
 
 6. Confirm the transaction and you will have the tokens inside your external wallet.
 
-<figure><img src="../.gitbook/assets/polo1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/polo1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 7. You will be able to see that it has been successfully Unstake and you will also be able to see it in the transaction history.
 

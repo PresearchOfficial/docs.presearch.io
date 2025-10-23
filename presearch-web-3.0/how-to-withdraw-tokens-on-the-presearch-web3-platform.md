@@ -8,7 +8,7 @@ icon: money-bill-transfer
 1. Log in to your [presearch account](https://presearch.com/), you can follow the tutorial here: [Presearch Web3 Login](presearch-web3-login.md)
 2. Enter your account menu: [My Account](https://account.presearch.com/) and click on Web3 dashboard.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on Visit Dashboard within the Platform Wallet Balance.
 

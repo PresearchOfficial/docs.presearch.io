@@ -32,7 +32,7 @@ There are a few different options for purchasing - Coinbase Pay, Transak & Moonp
 
 <div align="left"><figure><img src="../../.gitbook/assets/Screen Shot 2023-02-24 at 4.04.44 PM.png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Moonpay will then take you through their KYC process, where you'll put in your name, date of birth and address. After this page, you'll end up at the credit card input screen, like below.&#x20;
 
