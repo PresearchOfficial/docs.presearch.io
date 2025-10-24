@@ -55,6 +55,7 @@
 * [  NSFW Spicy Mode](presearch-engine/nsfw-spicy-mode/README.md)
   * [Presearch Launches NSFW Spicy Mode with OnlyFans Filtering Tool](presearch-engine/nsfw-spicy-mode/presearch-launches-nsfw-spicy-mode-with-onlyfans-filtering-tool.md)
 * [⚙️ Presearch UI/UX updates](presearch-engine/presearch-ui-ux-updates.md)
+* [Map the Blind Spots](presearch-engine/map-the-blind-spots.md)
 
 ## Presearch Web 3.0
 
