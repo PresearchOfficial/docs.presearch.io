@@ -11,8 +11,8 @@ icon: alien
 
 &#x20;This mini-site is where you come in. With Blind Spot Mapping and Self-Indexing, you can:
 
-* • **Identify blind spots:** Help us surface topics, creators, and content that mainstream engines bury or ignore.
-* • **Submit your own content:** If you're a creator, researcher, or community builder, index yourself directly and become discoverable without gatekeepers.
+* &#x20;**Identify blind spots:** Help us surface topics, creators, and content that mainstream engines bury or ignore.
+* &#x20;**Submit your own content:** If you're a creator, researcher, or community builder, index yourself directly and become discoverable without gatekeepers.
 
 Together, we're building a Frontier Intelligence Search Stack: a decentralized, creator-centric index designed to serve content that Big Tech overlooks.
 
