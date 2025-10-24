@@ -18,7 +18,7 @@ Together, we're building a Frontier Intelligence Search Stack: a decentralized, 
 
 
 
-**What We're Building**
+**What We're Building.**
 
 🔑**Differentiated Results:** Surfacing underserved, unbiased, human-centric content — Frontier Intelligence. Think all the stuff that's hard to find on Google.
 
