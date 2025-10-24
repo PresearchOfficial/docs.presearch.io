@@ -52,7 +52,8 @@
   * [How to Update profile](presearch-engine/faq/how-to-update-profile.md)
 * [🔐 Unlock Presearch’s Advanced Features | Full Tutorial](presearch-engine/unlock-presearchs-advanced-features-or-full-tutorial.md)
 * [🔎 MetaSearch](presearch-engine/metasearch.md)
-* [  NSFW Spicy Mode](presearch-engine/nsfw-spicy-mode.md)
+* [  NSFW Spicy Mode](presearch-engine/nsfw-spicy-mode/README.md)
+  * [Presearch Launches NSFW Spicy Mode with OnlyFans Filtering Tool](presearch-engine/nsfw-spicy-mode/presearch-launches-nsfw-spicy-mode-with-onlyfans-filtering-tool.md)
 * [⚙️ Presearch UI/UX updates](presearch-engine/presearch-ui-ux-updates.md)
 
 ## Presearch Web 3.0
