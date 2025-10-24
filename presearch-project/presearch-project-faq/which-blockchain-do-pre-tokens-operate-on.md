@@ -1,10 +1,10 @@
 ---
-description: Ethereum blockchain (ERC-20 token)
+description: Ethereum blockchain (ERC-20 token) and Base blockchain
 ---
 
 # Which blockchain do PRE Tokens operate on?
 
-Presearch's PRE tokens are available on the Ethereum blockchain as ERC-20 tokens and on the Base Network. The token contracts can be found here on Etherscan and Basescan:
+Presearch's PRE tokens are available on the Ethereum blockchain as ERC-20 tokens and on the Base Network. The token contracts can be found here on EtherScan and BaseScan:
 
 {% embed url="https://etherscan.io/token/0xEC213F83defB583af3A000B1c0ada660b1902A0F" %}
 
