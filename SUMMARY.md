@@ -159,6 +159,7 @@
 
 * [🆘 Presearch Support](support/presearch-support.md)
 * [🗞️ Presearch News](support/presearch-news.md)
+* [Official links](support/official-links.md)
 * [📝 Press Release](support/press-release.md)
 
 ## NFTs
