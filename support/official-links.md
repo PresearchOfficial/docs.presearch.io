@@ -9,7 +9,7 @@ icon: link
 
 {% embed url="https://presearch.com/" %}
 
-**Learn more:**&#x20;
+**Learn More:**&#x20;
 
 {% embed url="https://presearch.io/" %}
 
@@ -45,7 +45,7 @@ icon: link
 
 {% embed url="https://t.me/presearch" %}
 
-**Presearch.com telegram group:**
+**Presearch.com Telegram Group:**
 
 {% embed url="https://t.me/+HsVUasqT5nBmMjIx" %}
 
