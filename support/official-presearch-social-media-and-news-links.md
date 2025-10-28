@@ -1,9 +1,11 @@
 ---
-description: Presearch's official social media links
+description: Presearch official social media links and News
 icon: link
 ---
 
-# Official links
+# Official Presearch Social Media and News links
+
+You can find all the latest news about the project and its social media channels through the various Presearch links.
 
 **Search Engine:**
 
