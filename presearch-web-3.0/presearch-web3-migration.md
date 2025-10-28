@@ -31,7 +31,7 @@ icon: right-left
 
 7. From there, go back to the Tokens menu and click on Web3 again.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 8. Scroll down to step one, enter your two-factor authentication code to link your wallet to your Presearch account.
 

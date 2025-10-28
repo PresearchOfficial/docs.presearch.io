@@ -27,6 +27,6 @@ Have you noticed Presearch maps are smoother now? Here are the patches we have m
 5. There is a new search function to show you a location for when maps are up, but you don't need directions
 6. There is a new search function to show you a location for when maps are up, but you don't need directions
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/eFNzny7vLTI?feature=shared" %}
