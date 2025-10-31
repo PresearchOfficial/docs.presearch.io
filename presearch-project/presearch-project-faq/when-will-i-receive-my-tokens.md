@@ -10,7 +10,7 @@ Tokens will show in your PRE account immediately upon depositing PRE from extern
 
 This is typically processed over 30 minutes or less but it could take up to several hours depending on the network conditions.
 
-To send Pre from an external wallet or exchange to your presearch page (PRE Wallet) you must do it through the following link.
+To send Pre from an external wallet or exchange to your presearch page (PRE Wallet in Web2) or (Platform Wallet in Web3) you must do it through the following link.
 
 {% embed url="https://keywords.presearch.com/transfer-tokens/blockchain" %}
 

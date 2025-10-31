@@ -4,5 +4,5 @@ The most helpful place to get your questions answered is asking for help in our 
 
 You can always email support at [support@presearch.io](mailto:support@presearch.io)
 
-You can also reach us by following up on [twitter](https://twitter.com/presearchnews)
+You can also reach us by following up on [X Account](https://twitter.com/presearchnews)
 

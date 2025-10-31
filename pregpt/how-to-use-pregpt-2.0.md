@@ -16,4 +16,4 @@ Follow these simple steps to access our AI chat interface
 
 Enjoy exploring the capabilities of PreGPT 2.0! For any assistance or further information, please contact our support team at [info@presearch.com](mailto:info@presearch.com)
 
-Stay tuned for the Uncensored/Unbiased version, web-based chat (RAG), text to image, gift subscriptions and so much more.  See our Roadmap [here](https://app-rm.roadmunk.com/publish/5a4a54ceb3cd5f36d688a93757a91d48b7aaeee9) for more.
+Stay tuned for the Uncensored/Unbiased version, web-based chat (RAG), text to image, gift subscriptions and so much more.  See our Roadmap [here ](https://app-rm.roadmunk.com/rm3/published-depiction/13a7c99d47285b3740c66884609bcf90cd213445/modern)for more.
