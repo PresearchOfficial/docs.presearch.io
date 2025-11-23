@@ -50,14 +50,13 @@ Let’s start with our newest and most exciting option using an all-too familiar
 
 8\. **Swap ETH for PRE:** Now that you have ETH in your MetaMask wallet, select the swap function. To manually add PRE, scroll down to “import tokens” > “Custom Token” and paste the PRE contract address.
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 9\. **Execute Swap:** Finally, click on the “Swap” button that appears after you select PRE. Review and approve the transaction to complete the swap.
 
-Coinbase Wallet is one of the most convenient ways to [Purchase Presearch](https://www.coinbase.com/price/presearch?utm\_campaign=rt\_i\_m\_w\_m\_acq\_ugc\_soc\_0\_asset\&utm\_source=ugc\&utm\_platform=iOS) in general and especially in the United States. Coinbase Wallet is a function easily accessible to all Coinbase account holders and can be accessed directly from your Coinbase account easily by selecting the icon.
+Coinbase Wallet is one of the most convenient ways to [Purchase Presearch](https://www.coinbase.com/price/presearch?utm_campaign=rt_i_m_w_m_acq_ugc_soc_0_asset\&utm_source=ugc\&utm_platform=iOS) in general and especially in the United States. Coinbase Wallet is a function easily accessible to all Coinbase account holders and can be accessed directly from your Coinbase account easily by selecting the icon.
 
 The method Coinbase Wallet uses is the Swap function, so, you will need to have some ETH in your wallet to use as gas fees (transaction fee) **and** an asset to swap from to PRE. That asset can be any Erc20 token, including ETH, just remember that if you swap ETH to PRE, leave a little ETH in your wallet for gas fees next time.
 
@@ -69,8 +68,7 @@ For additional detailed instructions on setting up your Coinbase Wallet go [here
 
 If you do not have ETH in your Coinbase wallet yet, Coinbase makes it easy for you to buy ETH in your Coinbase account and it’ll be available across platforms.
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
@@ -80,8 +78,7 @@ If you do not have ETH in your Coinbase wallet yet, Coinbase makes it easy for y
 
 The Swap function will automatically appear prompting you to choose an asset to swap into PRE. Note you will need an ERC20 asset to select from which will automatically populate in the dropdown if you have one.
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
@@ -89,8 +86,7 @@ The Swap function will automatically appear prompting you to choose an asset to 
 
 Not only can you see you PRE in your Coinbase Wallet account, but you can also now see your PRE on the Blockchain by copying your address in the top right hand corner and entering it here in [Etherscan](https://etherscan.io/).
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
@@ -98,5 +94,4 @@ For additional details, see the list of [PRE Exchanges](https://presearch.io/exc
 
 Happy Presearching!
 
-[\
-](https://news.presearch.io/?source=post\_page-----69bb92b8e2fb--------------------------------)
+[<br>](https://news.presearch.io/?source=post_page-----69bb92b8e2fb--------------------------------)

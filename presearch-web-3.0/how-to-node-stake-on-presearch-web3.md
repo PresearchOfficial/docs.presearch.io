@@ -5,7 +5,7 @@ description: >-
 icon: circle-nodes
 ---
 
-# How to make Node Stake onto the Presearch Web3 Platform
+# How to Node Stake on Presearch Web3
 
 1. Log in to your [presearch account](https://presearch.com/), you can follow the tutorial here: [Presearch Web3 Login](presearch-web3-login.md)
 2. Enter your account menu: [My Account](https://account.presearch.com/) and click on Web3 dashboard.
@@ -72,4 +72,4 @@ Node Staking in Web3 Made Easy | Presearch’s Step-by-Step Guide.
 
 {% embed url="https://www.youtube.com/watch?v=FU7vw4u9eQE&t=1s" %}
 
-\
+<br>

@@ -47,7 +47,7 @@ As a note, we can assign the resources as follows:  &#x20;
 
 ![](<../../../.gitbook/assets/image (1) (2).png>)
 
-![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-01-11 at 4.16.57 AM (1).png>)
 
@@ -73,13 +73,11 @@ Create a WebTTY [StackOS - WebTTY (external)](https://www.evernote.com/shard/s79
 
 \
 kubectl get pods\
-\
-
+<br>
 
 ### Show the logs for the pod
 
-`kubectl logs -f presearch-0xYOURETHADDRESS-RANDOM`\
-
+`kubectl logs -f presearch-0xYOURETHADDRESS-RANDOM`<br>
 
 ### Expect to see something like this
 

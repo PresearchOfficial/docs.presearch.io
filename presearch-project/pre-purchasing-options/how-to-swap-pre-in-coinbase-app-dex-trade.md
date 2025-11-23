@@ -38,8 +38,7 @@ description: >-
     \
     Once your DEX trade is completed on a decentralized exchange, your new Presearch balance can now be easily managed in your Coinbase portfolio.
 
-    \
-
+    <br>
 
 For more information about the PRE swap procedure in Coinbase App you can visit its official blog at the following link:&#x20;
 
@@ -47,11 +46,10 @@ For more information about the PRE swap procedure in Coinbase App you can visit 
 
 
 
-\
+<br>
 
 
 
 
 
-
-\
+<br>

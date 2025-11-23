@@ -11,8 +11,7 @@ Return the current status of all your nodes as well as (optionally) aggregated d
 **Notes:**\
 \* The connected and disconnected parameters cannot both be set to "false".  In this case the default (connected only) will be used.\
 \
-\* Replace **:api\_key** with your API key. For example: _/api/nodes/status/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_\
-
+\* Replace **:api\_key** with your API key. For example: _/api/nodes/status/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_<br>
 
 #### Path Parameters
 

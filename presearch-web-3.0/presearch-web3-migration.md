@@ -69,7 +69,6 @@ Web3 (Keyword Stake, Node Stake, Search Stake) Migration Made Easy on Presearch:
 
 {% embed url="https://www.youtube.com/watch?v=qHrYAKCF_DQ&t=25s" %}
 
-\
+<br>
 
-
-\
+<br>

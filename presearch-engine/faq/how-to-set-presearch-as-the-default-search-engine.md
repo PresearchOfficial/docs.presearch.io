@@ -8,8 +8,7 @@ The two easiest ways to set it up on your desktop are:
   At the moment we offer[ browser extensions](https://account.presearch.com/extensions) for Chrome, Brave and Firefox. By downloading and activating our search extension, you will set Presearch as your default search engine.\
   \
   This will enable you to directly search with Presearch through your browser URL bar.\
-  \
-
+  <br>
 * **Manually**\
   You can also choose to manually set Presearch as your default search engine. You can do so as follows:\
   \- Go to your browser settings and navigate to the search engine tab\

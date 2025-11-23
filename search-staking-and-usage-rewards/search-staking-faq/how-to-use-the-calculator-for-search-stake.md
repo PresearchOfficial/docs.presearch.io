@@ -10,7 +10,7 @@ The first thing you need to do to use the calculator for Search Stake is go to [
 
 1. When you enter the link you will see the following screen:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Scroll down (📊 Your Staking Results) and also scroll down the menu bar on the left side of the screen (📊 Staking Parameters).
 

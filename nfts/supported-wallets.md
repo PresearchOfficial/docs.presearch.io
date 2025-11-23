@@ -8,8 +8,7 @@ Whenever you connect your wallet, the latest wallet you've connected will be lin
 
 ## Supported wallets
 
-Presearch NFTs are currently minted on **Polygon network**, and unfortunately not all wallets have full Polygon support. To avoid issues during minting process, we recommend using one of the wallets from the list below that have been verified to work.\
-
+Presearch NFTs are currently minted on **Polygon network**, and unfortunately not all wallets have full Polygon support. To avoid issues during minting process, we recommend using one of the wallets from the list below that have been verified to work.<br>
 
 ### Desktop
 

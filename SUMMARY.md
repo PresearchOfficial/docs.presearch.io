@@ -111,6 +111,8 @@
   * [Alternative to Backing up nodes](nodes/troubleshooting-and-maintenance/alternative-to-backing-up-nodes.md)
   * [Backup method with Docker Desktop for Windows](nodes/troubleshooting-and-maintenance/backup-method-with-docker-desktop-for-windows.md)
   * [Backup method for Linux](nodes/troubleshooting-and-maintenance/backup-method-for-linux.md)
+  * [How to solve the node connection problem](nodes/troubleshooting-and-maintenance/how-to-solve-the-node-connection-problem.md)
+  * [How to reconnect the node](nodes/troubleshooting-and-maintenance/how-to-reconnect-the-node.md)
 * [🎇 Node Rewards](nodes/rewards.md)
 * [🔠 API Access](nodes/api.md)
 * [🫐 Preberry](nodes/preberry.md)

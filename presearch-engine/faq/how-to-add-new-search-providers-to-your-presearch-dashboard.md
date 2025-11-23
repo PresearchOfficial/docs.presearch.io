@@ -23,8 +23,7 @@ For this tutorial, we are searching for ‘Dictionary’. Use this field to sear
 
 Clicking on the name of the provider (see arrow) will move this provider up to your default search choices.
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

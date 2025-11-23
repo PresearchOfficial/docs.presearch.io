@@ -37,8 +37,7 @@ CEO Tim Enneking emphasized the historical role of adult brands in internet deve
 
 {% embed url="https://www.youtube.com/watch?v=x3NYot0dNOI" %}
 
-\
-
+<br>
 
 \
 &#x20;

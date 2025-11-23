@@ -83,13 +83,11 @@ You'll configure to following settings based upon your own needs:\
 • Country, Language, Timezone, Keyboard\
 • Password\
 • Screen Settings\
-• Wifi (optional)\
-
+• Wifi (optional)<br>
 
 #### 11. When you get to the Software Update screen, be sure to click "Next" to update your system.&#x20;
 
-Do **NOT** skip the software updates, as it could expose your system to security issues or prevent your node from installing correctly.\
-
+Do **NOT** skip the software updates, as it could expose your system to security issues or prevent your node from installing correctly.<br>
 
 ![](<../.gitbook/assets/image (14) (1) (1).png>)
 

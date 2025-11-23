@@ -52,4 +52,4 @@ In addition to the Presearch node configuration parameters above, since Presearc
 `--dns`: can override your computer's default DNS configuration to avoid bad DNS providers. If you're getting errors about being unable to connect to reach the network then a bad DNS provider is the most common reason.\
 `--ip`: can be used to select from different available IP addresses if your system has multiple\
 \
-Please consult the [Docker documentation](https://docs.docker.com/engine/reference/run/) if you would like to better understand these and other available container configuration parameters.\
+Please consult the [Docker documentation](https://docs.docker.com/engine/reference/run/) if you would like to better understand these and other available container configuration parameters.<br>

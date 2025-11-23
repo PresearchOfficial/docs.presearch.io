@@ -20,11 +20,9 @@ or
 
 * [x] Individual Raspberry Pi - [https://www.raspberrypi.com/products/raspberry-pi-4-model-b/](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)&#x20;
 * [x] Power Supply - [https://www.amazon.com/CanaKit-Raspberry-Power-Supply-PiSwitch/dp/B07TSFYXBC](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-PiSwitch/dp/B07TSFYXBC)&#x20;
-* [x] SD Card - [https://www.newegg.com/team-32gb-microsdhc/p/20-313-309](https://www.newegg.com/team-32gb-microsdhc/p/20-313-309) \
+* [x] SD Card - [https://www.newegg.com/team-32gb-microsdhc/p/20-313-309](https://www.newegg.com/team-32gb-microsdhc/p/20-313-309) <br>
 
-
-Now that you have the tools needed, we want you to run with it. Feel free to set up your own store, and order inventory. Make sure to have these ready to go when your customers order!\
-
+Now that you have the tools needed, we want you to run with it. Feel free to set up your own store, and order inventory. Make sure to have these ready to go when your customers order!<br>
 
 {% hint style="info" %}
 Please email _collaborate@presearch.io_ your store when you have it live. We’ll be keeping tabs in the community to hear who has the best experience. We're excited for the community to take this and run with it!

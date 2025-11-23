@@ -36,8 +36,7 @@ To create the Ubuntu Server platform for Docker and your Presearch node, follow 
 * From the menu on your left, select “Virtual machines”. If this option is not available, simply type “Virtual machines” in the search box on top.
 * From the menu, choose “Add” and then “Virtual machine”.
 
-![](https://lh6.googleusercontent.com/jnr0v1cUaGZh0MmVUTzdgE10xxU0cITAV9SYNfKVhJPWoT7yh2Rr-FH\_EG-SeKZTYGdPAZdYbVFpQFhC\_Jdk7esofct5lNgkkBuszSqGzuLsOqriOynzcfJxPg5UWvK9KbLE46GQ)\
-
+![](https://lh6.googleusercontent.com/jnr0v1cUaGZh0MmVUTzdgE10xxU0cITAV9SYNfKVhJPWoT7yh2Rr-FH_EG-SeKZTYGdPAZdYbVFpQFhC_Jdk7esofct5lNgkkBuszSqGzuLsOqriOynzcfJxPg5UWvK9KbLE46GQ)<br>
 
 **The options in this first screen:**
 
@@ -71,14 +70,13 @@ To create the Ubuntu Server platform for Docker and your Presearch node, follow 
 
 * Now, click “Next : Disks”, and change the default disk type to either Standard SSD or Standard HDD, the latter option being even cheaper and not impacting the node performance in this test-net phase.
 
-![](https://lh3.googleusercontent.com/aOs1c-MErR6aHlkGbUoPELA5quecwG61S0wW1fknD60kuVB30ptQwL1yCCcmzRDB3m0aFeN5ZKPRMxjX\_UCsWjKeSEkRrv6mp9u7vnqEMD9sn3ZQaxtY22-sLlIa0NCwhP\_5uDVp)
+![](https://lh3.googleusercontent.com/aOs1c-MErR6aHlkGbUoPELA5quecwG61S0wW1fknD60kuVB30ptQwL1yCCcmzRDB3m0aFeN5ZKPRMxjX_UCsWjKeSEkRrv6mp9u7vnqEMD9sn3ZQaxtY22-sLlIa0NCwhP_5uDVp)
 
-**Selecting a cheaper disk option**\
-
+**Selecting a cheaper disk option**<br>
 
 * Click the “Management” tab, and ensure the checkbox “Enable auto shutdown” is unchecked, as per image below.
 
-![](https://lh5.googleusercontent.com/YS\_i4En9ahCQCOY0XR7S3A1bsav5nNPKSXaVTRJakfe1D8xyi3n-lKnNNI8lRWdaYl8wJfUdUTxsCQpJooia-EgGr30jX51od2Vp88iG-\_lkVaUqJd3sip98pEIcKlC3S8ecs57q)
+![](https://lh5.googleusercontent.com/YS_i4En9ahCQCOY0XR7S3A1bsav5nNPKSXaVTRJakfe1D8xyi3n-lKnNNI8lRWdaYl8wJfUdUTxsCQpJooia-EgGr30jX51od2Vp88iG-_lkVaUqJd3sip98pEIcKlC3S8ecs57q)
 
 * That’s it! Now, click “Review + create”. Your selected options are checked and if all is okay, the “Create” button will become active.
 * Click “Create”, and after a few seconds a pop-up will appear, offering you to download the generated keys. Click “Download private key and create resource” and a private key will be downloaded.
@@ -89,7 +87,7 @@ To create the Ubuntu Server platform for Docker and your Presearch node, follow 
 
 **Download the private key**
 
-![](https://lh5.googleusercontent.com/tWdzED\_V\_mOjdBUG6R1ziwEp8rLOxTx0DIpBozvq3rEGRXLAmplnbPfLivWmgrlStTJORf7QO5Q94wXDucmZKU-eN0keiLd3tAC2twtAdgaATwvTWMdOIs1C94ZyIXGhsj\_gjQor)
+![](https://lh5.googleusercontent.com/tWdzED_V_mOjdBUG6R1ziwEp8rLOxTx0DIpBozvq3rEGRXLAmplnbPfLivWmgrlStTJORf7QO5Q94wXDucmZKU-eN0keiLd3tAC2twtAdgaATwvTWMdOIs1C94ZyIXGhsj_gjQor)
 
 \
 The system will now be deployed and a progress screen will appear. When all resources have been deployed you will be presented with a screen as below.&#x20;
@@ -107,7 +105,7 @@ The system will now be deployed and a progress screen will appear. When all reso
 
 You are now shown instructions, as per image below. Note the username and IP address listed under point 4, and then use your preferred SSH client (such as Putty) to connect to the new virtual server.
 
-![connect via SSH instructions](https://lh4.googleusercontent.com/aDNRLkFqokwJiT4GIAG8nRnatn88bt7ikrIUJQzmJ10eCbHbL4sh4f0TPg10FIr3NIl6IVgzbN-wGz8rT3a\_-11freo-llfSZ25X-CteQ6A2D2nSgHrfTyCHYTv6u7ks6clgPcmj)
+![connect via SSH instructions](https://lh4.googleusercontent.com/aDNRLkFqokwJiT4GIAG8nRnatn88bt7ikrIUJQzmJ10eCbHbL4sh4f0TPg10FIr3NIl6IVgzbN-wGz8rT3a_-11freo-llfSZ25X-CteQ6A2D2nSgHrfTyCHYTv6u7ks6clgPcmj)
 
 From there, continue as with a standard Ubuntu VM below.
 
@@ -146,17 +144,15 @@ docker run hello-world
 
 #### **Your node registration code**
 
-First, goto your [Node's dashboard page](https://nodes.presearch.com/dashboard) and note down personal Node registration code. You will need this later to start the presearch-node container.\
+First, goto your [Node's dashboard page](https://nodes.presearch.com/dashboard) and note down personal Node registration code. You will need this later to start the presearch-node container.<br>
 
-
-![](https://lh5.googleusercontent.com/nNj2qzd6LYWJ1UzycUvtk6g8iFuFmFikQB1sgYYiBsZO1UfXcDNRAMA8Ht3gJxm74vVeoKiH3ddoCLZ7l8gSFsKvCtFvIKKdOQN63oqsYTVzikEKK9iUeXg\_H65uhBc7YCUkRv0b)
+![](https://lh5.googleusercontent.com/nNj2qzd6LYWJ1UzycUvtk6g8iFuFmFikQB1sgYYiBsZO1UfXcDNRAMA8Ht3gJxm74vVeoKiH3ddoCLZ7l8gSFsKvCtFvIKKdOQN63oqsYTVzikEKK9iUeXg_H65uhBc7YCUkRv0b)
 
 **Click on “Copy” to copy the code to your clipboard.**
 
 ## **Presearch Auto-updater**
 
-Now, we install the presearch-node and an automatic updater. To ensure the presearch node always runs the latest image we are using the the Presearch Auto-updater image to check the presearch-node image every 900 seconds (15 minutes) for an updated version and if found, to automatically update it.\
-
+Now, we install the presearch-node and an automatic updater. To ensure the presearch node always runs the latest image we are using the the Presearch Auto-updater image to check the presearch-node image every 900 seconds (15 minutes) for an updated version and if found, to automatically update it.<br>
 
 ```
 docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run/docker.sock:/var/run/docker.sock presearch/auto-updater --cleanup --interval 900 presearch-auto-updater presearch-node
@@ -164,8 +160,7 @@ docker run -d --name presearch-auto-updater --restart=unless-stopped -v /var/run
 
 ## **Presearch node**
 
-And finally, we download, and then start a presearch-node container. \
-
+And finally, we download, and then start a presearch-node container. <br>
 
 Execute the below in your terminal, making sure you replace \[YOUR\_REGISTRATION\_CODE] with the code you picked up from your node-control panel.
 
@@ -183,8 +178,7 @@ Since version 0.9.21, there are additional parameters you can enter at startup t
 * URL : to find out still, from the upcoming medium post ;-)
 * STAKE : to stake an amount of PRE from node startup.
 
-This would make the full command something like:\
-
+This would make the full command something like:<br>
 
 ```
 docker run -dt --name presearch-node --restart=unless-stopped -v presearch-node-storage:/app/node -e REGISTRATION_CODE=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -e DESCRIPTION="My Favorite Node" -e URL="https://my-hosting-provider.com/my-node-admin-page" -e STAKE=10000 presearch/node
@@ -198,8 +192,8 @@ docker logs -f presearch-node
 
 If all works as planned, you should see something like the below. You can get back to the command prompt by pressing CTRL+C.
 
-![](https://lh4.googleusercontent.com/F5tGLw9SqQ7y8W5jrdj0N0wXoWAbcwvw8dLDFfCjH2\_Vv\_nk\_L8GsVSk\_RaBKtMY\_Vvq1zo3u2GEwXPq1qRVf32sYm4O-I4pm8HHX69GJUDO6Z1ouMEQqUA9ZU6GI9jKRSZEKsXf)
+![](https://lh4.googleusercontent.com/F5tGLw9SqQ7y8W5jrdj0N0wXoWAbcwvw8dLDFfCjH2_Vv_nk_L8GsVSk_RaBKtMY_Vvq1zo3u2GEwXPq1qRVf32sYm4O-I4pm8HHX69GJUDO6Z1ouMEQqUA9ZU6GI9jKRSZEKsXf)
 
 **Once back at the command prompt, type EXIT to close your terminal session.**
 
-Thank you so much to our Presearch Community member Niels for putting this together for us.\
+Thank you so much to our Presearch Community member Niels for putting this together for us.<br>

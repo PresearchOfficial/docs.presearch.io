@@ -28,4 +28,4 @@ For more information about the PRE swap procedure in Trustwallet you can visit i
 
 {% embed url="https://trustwallet.com/blog/guides/how-to-swap-tokens-in-trust-wallet" %}
 
-\
+<br>

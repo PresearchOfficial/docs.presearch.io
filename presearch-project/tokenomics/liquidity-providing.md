@@ -4,16 +4,15 @@ description: >-
   liquidity for yourself, and the benefits for the project.
 ---
 
-# Liquidity Providing
+# Liquidity Providing Uniswap
 
 ## How to provide liquidity?
 
 Liquidity can be provided in a few easy steps:
 
-1.  [Visit Presearch (PRE) on Uniswap](https://info.uniswap.org/pair/0xf248959d7aa50cd47b448f507063eaa6cc5404c4) and click on ‘[+ Add Liquidity](https://app.uniswap.org/#/add/ETH/0xec213f83defb583af3a000b1c0ada660b1902a0f)’ in the top right corner.\
+1.  [Visit Presearch (PRE) on Uniswap](https://info.uniswap.org/pair/0xf248959d7aa50cd47b448f507063eaa6cc5404c4) and click on ‘[+ Add Liquidity](https://app.uniswap.org/#/add/ETH/0xec213f83defb583af3a000b1c0ada660b1902a0f)’ in the top right corner.<br>
 
-
-    [![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/33053494937/original/hC8R\_bky\_xcttQaeJjGxX1M5mHc6s8PgKw.png?1612352058)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/33053494937/original/hC8R\_bky\_xcttQaeJjGxX1M5mHc6s8PgKw.png?1612352058)
+    [![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/33053494937/original/hC8R_bky_xcttQaeJjGxX1M5mHc6s8PgKw.png?1612352058)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/33053494937/original/hC8R_bky_xcttQaeJjGxX1M5mHc6s8PgKw.png?1612352058)
 2. Add the number of PRE/ETH or PRE/USDT (equivalent in value) you’d like to add to the liquidity pool.
 3. Approve spending for PRE/ETH on Uniswap, after this smart contract interaction has been approved, click on: ‘Supply’
 4. That’s it, you’re now a liquidity provider for Presearch on Uniswap!
