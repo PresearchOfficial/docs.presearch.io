@@ -35,3 +35,5 @@ description: Presearch Press Release
 {% embed url="https://coinchapter.com/presearch-launches-presearch-3-0-presearch-reengineers-platform-to-become-the-first-base-native-web3-search-engine/" %}
 
 {% embed url="https://yellow.com/news/presearch-launches-decentralized-nsfw-search-to-counter-big-techs-growing-censorship" %}
+
+{% embed url="https://aijourn.com/seo-might-be-dying-but-the-best-content-never-will/" %}
