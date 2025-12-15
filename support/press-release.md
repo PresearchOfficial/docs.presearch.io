@@ -37,3 +37,7 @@ description: Presearch Press Release
 {% embed url="https://yellow.com/news/presearch-launches-decentralized-nsfw-search-to-counter-big-techs-growing-censorship" %}
 
 {% embed url="https://aijourn.com/seo-might-be-dying-but-the-best-content-never-will/" %}
+
+{% embed url="https://yellow.com/news/privacy-focused-presearch-rolls-out-independent-web-index-built-on-decentralized-network" %}
+
+{% embed url="https://blockchainwire.io/press-release/presearch-launches-node-nft-licenses-allowing-more-people-to-power-the-next-web" %}
