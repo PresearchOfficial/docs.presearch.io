@@ -1,9 +1,8 @@
 ---
 description: 🔥 Get Spicy with Presearch! 🔥
-icon: pepper-hot
 ---
 
-# NSFW Spicy Mode
+# 🌶️   NSFW Spicy Mode
 
 🌶 We’re thrilled to announce the launch of Spicy Mode, our new NSFW, opt-in search experience designed for after-hours searching where rotating wallpaper-style background takeover ads will be showcasing top-tier adult content! 🌶
 

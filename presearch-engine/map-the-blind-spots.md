@@ -2,10 +2,9 @@
 description: >-
   Help us build a discovery engine that addresses gaps in mainstream search
   through community-driven content mapping and self-indexing mechanisms.
-icon: alien
 ---
 
-# Map the Blind Spots
+# 👽 Map the Blind Spots
 
 &#x20;Only about 10% of the web is truly visible. The other 90%—filled with valuable, overlooked, and often human-driven knowledge—remains buried or undiscoverable. That's the gold we're mining.
 

@@ -41,3 +41,5 @@ description: Presearch Press Release
 {% embed url="https://yellow.com/news/privacy-focused-presearch-rolls-out-independent-web-index-built-on-decentralized-network" %}
 
 {% embed url="https://blockchainwire.io/press-release/presearch-launches-node-nft-licenses-allowing-more-people-to-power-the-next-web" %}
+
+{% embed url="https://coinstats.app/es/news/3cb13d2c25a11f36b4359ddfec80870926ddaf645b30fb0a02b40a9a2c128577_Presearchio-Partners-with-Verdicti-Ventures-to-Accelerate-AINative-Decentralized-Intelligence-Infrastructure-for-the-Agentic-Web/" %}
