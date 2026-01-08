@@ -93,6 +93,7 @@
 
 * [⭐ What is a Node?](nodes/overview/README.md)
   * [Hardware and system requirements](nodes/overview/hardware-and-system-requirements.md)
+* [NFT Dashboard Instructions](nodes/nft-dashboard-instructions.md)
 * [⚙️ Node Setup Instructions](nodes/setup/README.md)
   * [Generic installation instructions](nodes/setup/generic-installation-instructions.md)
   * [Node Configuration Parameters](nodes/setup/node-configuration-parameters.md)
