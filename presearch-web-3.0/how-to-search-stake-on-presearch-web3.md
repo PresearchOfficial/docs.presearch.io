@@ -25,7 +25,7 @@ icon: coin-vertical
 
 <figure><img src="../.gitbook/assets/loto1.jpg" alt=""><figcaption></figcaption></figure>
 
-6. Approve the transaction and then confirm it in your external wallet.
+6. Approve the transaction and then confirm it in your external wallet **(Metamask, coinbase wallet, ect)**.
 
 <figure><img src="../.gitbook/assets/aprove1.jpg" alt=""><figcaption></figcaption></figure>
 

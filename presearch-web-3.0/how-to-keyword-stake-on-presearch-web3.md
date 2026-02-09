@@ -39,7 +39,7 @@ icon: adversal
 
 <figure><img src="../.gitbook/assets/aprobar1.jpg" alt=""><figcaption></figcaption></figure>
 
-9. Confirm the transaction in your external wallet.
+9. Confirm the transaction in your external wallet **(Metamask, coinbase wallet, ect).**
 
 <figure><img src="../.gitbook/assets/cap1.jpg" alt=""><figcaption></figcaption></figure>
 
