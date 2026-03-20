@@ -4,13 +4,13 @@ description: FAQ related to the new Presearch node roles.
 
 # Presearch Crawler, Vector, C-Seek Nodes FAQ
 
-1. What can we do with the NFT acquired in the Presearch auction?
+1. **What can we do with the NFT acquired in the Presearch auction?**
 
 The NFT is a license which grants the ability to run a 1:1 node. Each NFT represents a single node on the network.
 
 
 
-2. What are the minimum hardware requirements to run a node?
+2. **What are the minimum hardware requirements to run a node?**
 
 * **Crawler Nodes (CPU)** — “Explorers of the deep, unseen web.” Role: Crawl targeted URLs across underserved/frontier verticals to expand the index.
 
@@ -36,7 +36,7 @@ Specs:
 
 
 
-3. What is the required stake amount for each node?
+3. **What is the required stake amount for each node?**
 
 Crawler Nodes: 7,500 PRE Stake&#x20;
 
@@ -46,7 +46,7 @@ Vector Nodes: 20,000 PRE Stake.
 
 
 
-4. What is the reward obtained for the nodes?
+4. **What is the reward obtained for the nodes?**
 
 20% APR for each node type (Crawler, Vector, C-seek) and this is based on the cost of running a node Which can be found on the bottom part of the spreadsheet under “Technical assumptions”
 
@@ -64,49 +64,49 @@ Reward payments are processed during the first few days of each month, The amoun
 
 
 
-5. When are node rewards paid?
+5. **When are node rewards paid?**
 
 The reward calculation is done daily (every 24 hours), and will be paid monthly to the node operator (at the beginning of each month).
 
 
 
-6. Will staking a larger amount of Pre on a node earn me more rewards?
+6. **Will staking a larger amount of Pre on a node earn me more rewards?**
 
 No, The reward will not increase if you place more stake in a node.
 
 
 
-7. Will the existing nodes (legacy nodes) continue to function?
+7. **Will the existing nodes (legacy nodes) continue to function?**
 
 Yes, the current nodes (legacy nodes) will continue to function without problems for now, but these nodes will also need an NFT later on to function and continue receiving rewards.
 
 
 
-8. Can I run multiple nodes with the same IP address?
+8. **Can I run multiple nodes with the same IP address?**
 
 Yes, You can run multiple nodes with the same IP address without any problems.
 
 
 
-9. Can I run multiple nodes on the same machine?
+9. **Can I run multiple nodes on the same machine?**
 
 Yes, You can run multiple nodes on the same machine as long as it meets the necessary hardware requirements, Each of these nodes will need an NFT, you can also run different types of nodes on the same machine, primarily crawler nodes and C-seek nodes, And the team is also working to enable the integration of vector nodes in case the machine has the necessary GPU.
 
 
 
-10. Can I run multiple nodes with the same NFT?
+10. **Can I run multiple nodes with the same NFT?**
 
 Yes, You can run multiple nodes with the same NFT using several low-power machines to collectively reach the daily POW, However, having multiple nodes with the same NFT will not increase the rewards.
 
 
 
-11. What does POW mean for a node?
+11. **What does POW mean for a node?**
 
 Proof of Work (PoW): Validated output based on daily required minimums (i.e, pages crawled, AI summaries generated, queries answered).
 
 
 
-12. How Rewards Work: Hybrid PoW / PoS / PoG?
+12. **How Rewards Work: Hybrid PoW / PoS / PoG?**
 
 Node rewards are algorithmically determined by a transparent, multi-factor model:
 
@@ -122,7 +122,7 @@ PRE Token Price Multiplier: A dynamic factor tied to ecosystem health and burn m
 
 
 
-13. What function does each of the nodes perform?
+13. **What function does each of the nodes perform?**
 
 
 
@@ -150,7 +150,7 @@ When a query comes, the node turns it into a vector, a mathematical representati
 
 
 
-14. Where can I get more information about this?
+14. **Where can I get more information about this?**
 
 You can check out our official articles on Medium and videos on YouTube.
 
