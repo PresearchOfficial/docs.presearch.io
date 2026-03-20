@@ -15,3 +15,7 @@ Presearch executives emphasized responsible innovation to benefit the adult crea
 **Get more information here.**&#x20;
 
 {% embed url="https://news.presearch.io/presearch-introduces-doppelg%C3%A4nger-image-powered-creator-discovery-comes-to-spicy-mode-05cb76916694" %}
+
+**Presearch Doppelgänger Tab Demo (20 Seconds).**&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=9SurooXtxTk" %}
