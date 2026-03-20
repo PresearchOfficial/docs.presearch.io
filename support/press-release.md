@@ -45,3 +45,7 @@ description: Presearch Press Release
 {% embed url="https://coinstats.app/es/news/3cb13d2c25a11f36b4359ddfec80870926ddaf645b30fb0a02b40a9a2c128577_Presearchio-Partners-with-Verdicti-Ventures-to-Accelerate-AINative-Decentralized-Intelligence-Infrastructure-for-the-Agentic-Web/" %}
 
 {% embed url="https://financefeeds.com/top-decentralized-search-engines-in-web3/" %}
+
+{% embed url="https://coinchapter.com/presearch-series-ii-node-nft-auction-sells-out-generates-8-5m-pre-and-doubles-participation/" %}
+
+{% embed url="https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/" %}
