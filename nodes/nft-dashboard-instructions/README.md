@@ -32,6 +32,6 @@ Following are instructions for importing your purchased NFTs into your wallet an
 
 1. [Instructions to import NFTs.](https://docs.google.com/document/d/1verMPe90cJXiJp7_4gN3EoqV2pAd1MsDGRkWt0_ooJI/edit?usp=sharing)
 2. [New NFT Instructions for Crawlers.](https://docs.google.com/document/u/0/d/1_uEhhF4qoIyzEkHZZxuZ1E7XKZJarXBsU_zEfKo3Y7o/edit)
-3. [New NFT Instructions for Vectors.](https://docs.google.com/document/u/0/d/1sGM5OByKZjJvto8MPSdMozpiVtXqAnOC54gFHD1MXwI/edit)
+3. [New NFT Instructions for Vectors.](https://docs.google.com/document/d/1q1AxhE48NCg8m16FKX77FjeIE6dw91cGY1JZ-cTfECc/edit?usp=sharing)
 4. [New NFT Instructions for Seekers.](https://docs.google.com/document/u/0/d/1SuY3y8ICBIxuaZph_1NSuqvvi9hd6tGMm7UTTz36W30/edit)
 
