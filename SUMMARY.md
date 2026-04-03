@@ -30,6 +30,7 @@
   * [How can I contact the support team?](presearch-project/presearch-project-faq/how-can-i-contact-the-support-team.md)
   * [Who do I contact for marketing / promotional offers?](presearch-project/presearch-project-faq/who-do-i-contact-for-marketing-promotional-offers.md)
   * [Presearch vision paper](presearch-project/presearch-project-faq/presearch-vision-paper.md)
+* [🔄 Presearch TGE token Swap FAQ](presearch-project/presearch-tge-token-swap-faq.md)
 
 ## Presearch Engine
 
