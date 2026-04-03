@@ -1,8 +1,8 @@
 ---
-description: Welcome to the official FAQ for the Presearch TGE Token Swap.
+description: Welcome to the official FAQ for the Presearch TGE token swap.
 ---
 
-# 🔄 Presearch TGE token Swap FAQ
+# 🔄 Presearch TGE token swap FAQ
 
 This document answers the most common questions about swapping your PRE tokens for the new token, including timelines, rates, eligibility, processes, and important considerations.
 
