@@ -8,4 +8,5 @@ This document answers the most common questions about swapping your PRE tokens f
 
 For the full details, view the complete FAQ here:&#x20;
 
-#### [**Presearch TGE token Swap FAQ**](https://docs.google.com/document/d/1-MpqcDBZDtr8GNZgvU-kFSSGAE1MgQeF/)
+#### [**Presearch TGE token swap FAQ**](https://docs.google.com/document/d/1-MpqcDBZDtr8GNZgvU-kFSSGAE1MgQeF/)
+
