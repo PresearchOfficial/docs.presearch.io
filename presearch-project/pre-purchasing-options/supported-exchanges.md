@@ -1,5 +1,5 @@
 ---
-description: Where to buy Presearch tokens on supported CEX and DEX
+description: Where to buy Presearch tokens on supported DEX
 ---
 
 # Supported Exchanges
