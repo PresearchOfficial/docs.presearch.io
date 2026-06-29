@@ -56,6 +56,7 @@
 * [🌶️   NSFW Spicy Mode](presearch-engine/nsfw-spicy-mode/README.md)
   * [Presearch Launches NSFW Spicy Mode with OnlyFans Filtering Tool](presearch-engine/nsfw-spicy-mode/presearch-launches-nsfw-spicy-mode-with-onlyfans-filtering-tool.md)
   * [Doppelgänger](presearch-engine/nsfw-spicy-mode/doppelganger.md)
+  * [Presearch  NSFW Upgrade](presearch-engine/nsfw-spicy-mode/presearch-nsfw-upgrade.md)
 * [⚙️ Presearch UI/UX updates](presearch-engine/presearch-ui-ux-updates.md)
 * [👽 Map the Blind Spots](presearch-engine/map-the-blind-spots.md)
 * [📇 Presearch Indee](presearch-engine/presearch-indee.md)
